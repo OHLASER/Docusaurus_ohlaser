@@ -1,6 +1,11 @@
 ---
 sidebar_position: 1
+title: Introduction to Ionic
+sidebar_label: Overview
+slug: /
+hide_table_of_contents: true
 ---
+
 # 索引
 
 オーレーザー製品のトラブルシューティングをまとめています。
