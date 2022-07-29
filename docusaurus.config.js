@@ -4,6 +4,8 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
+const path = require('path');
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'My Site',
@@ -42,7 +44,10 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: [
+            require.resolve('./node_modules/@ionic-internal/ionic-ds/dist/tokens/tokens.css'),
+            require.resolve('./src/css/custom.css')
+          ]
         },
       }),
     ],
@@ -51,6 +56,9 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: 'light',
+      },
       navbar: {
         title: 'オーレーザー',
         logo: {
@@ -74,13 +82,22 @@ const config = {
       // },
     }),
   plugins: [
+    'docusaurus-plugin-sass',
     [
       require.resolve("@cmfcmf/docusaurus-search-local"),
       {
         indexDocs: true,
         language: "ja",
       },
-    ]
+    ],
+    [
+      'docusaurus-plugin-module-alias',
+      {
+        alias: {
+          '@components': path.resolve(__dirname, './src/components'),
+        },
+      },
+    ],
   ],
 };
 
