@@ -26,6 +26,8 @@ import DocsCards from '@components/global/DocsCards';
 <DocsCard
     header="清掃方法"
     href="/docs/category/清掃方法"
+    icon="/icons/guide-components-icon.svg"
+    hoverIcon="/icons/guide-components-icon-hover.svg"
 >
 <p>清掃方法を説明します</p>
 </DocsCard>
@@ -33,6 +35,8 @@ import DocsCards from '@components/global/DocsCards';
 <DocsCard
     header="加工機本体の症状"
     href="/docs/category/加工機本体の症状"
+    icon="/icons/guide-components-icon.svg"
+    hoverIcon="/icons/guide-components-icon-hover.svg"
 >
 <p>加工機本体の症状について説明します</p>
 </DocsCard>
@@ -40,6 +44,8 @@ import DocsCards from '@components/global/DocsCards';
 <DocsCard
     header="動作の症状"
     href="/docs/category/cleaning"
+    icon="/icons/guide-components-icon.svg"
+    hoverIcon="/icons/guide-components-icon-hover.svg"
 >
 <p>動作の症状について説明します</p>
 </DocsCard>
