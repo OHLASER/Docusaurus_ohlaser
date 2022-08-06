@@ -49,6 +49,10 @@ const config = {
             require.resolve('./src/css/custom.css')
           ]
         },
+        gtag: {
+          trackingID: 'GTM-M3MD5LB',
+          // anonymizeIP: true,
+        }
       }),
     ],
   ],
@@ -75,11 +79,7 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
-      },
-      // gtag: {
-      //   // trackingID: 'UA-yourGAcode',
-      //   // anonymizeIP: true,
-      // },
+      }
     }),
   plugins: [
     'docusaurus-plugin-sass',
