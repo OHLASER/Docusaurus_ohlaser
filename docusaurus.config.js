@@ -8,9 +8,9 @@ const path = require('path');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'support_docs',
   tagline: 'Dinosaurs are cool',
-  url: 'http://timerec.colsystem.biz',
+  url: 'https://ohlaser.github.io',
   baseUrl: '/build/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
