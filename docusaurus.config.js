@@ -11,14 +11,14 @@ const config = {
   title: 'support_docs',
   tagline: 'オーレーザーサポート',
   url: 'https://ohlaser.github.io',
-  baseUrl: '/build/',
+  baseUrl: '/support_docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'OHLASER', // Usually your GitHub org/user name.
+  organizationName: 'ohlaser', // Usually your GitHub org/user name.
   projectName: 'support_docs', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
