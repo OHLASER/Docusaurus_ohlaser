@@ -9,7 +9,7 @@ const path = require('path');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'support_docs',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'オーレーザーサポート',
   url: 'https://ohlaser.github.io',
   baseUrl: '/build/',
   onBrokenLinks: 'throw',
@@ -18,8 +18,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'OHLASER', // Usually your GitHub org/user name.
+  projectName: 'support_docs', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -101,12 +101,4 @@ const config = {
   ],
 };
 
-module.exports = {
-  // ...
-  url: 'https://ohlaser.github.io', // 你的网站 URL
-  baseUrl: '/build/',
-  projectName: 'support_docs',
-  organizationName: 'OHLASER',
-  trailingSlash: false,
-  // ...
-};
+module.exports = config;
