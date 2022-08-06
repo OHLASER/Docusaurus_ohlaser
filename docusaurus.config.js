@@ -60,7 +60,7 @@ const config = {
         defaultMode: 'light',
       },
       navbar: {
-        title: 'オーレーザー',
+        title: 'オーレーザー製品サポート',
         logo: {
           alt: 'OhLaser logo',
           src: 'img/logo.svg',
@@ -69,7 +69,7 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         copyright: `Copyright © ${new Date().getFullYear()} Oh-Laser Co., Ltd.`,
       },
       prism: {
