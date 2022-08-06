@@ -101,4 +101,12 @@ const config = {
   ],
 };
 
-module.exports = config;
+module.exports = {
+  // ...
+  url: 'https://ohlaser.github.io', // 你的网站 URL
+  baseUrl: '/build/',
+  projectName: 'support_docs',
+  organizationName: 'OHLASER',
+  trailingSlash: false,
+  // ...
+};
