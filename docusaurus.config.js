@@ -72,10 +72,10 @@ const config = {
         items: [
         ],
       },
-      footer: {
-        style: 'light',
-        copyright: `Copyright © ${new Date().getFullYear()} Oh-Laser Co., Ltd.`,
-      },
+      // footer: {
+      //   style: 'light',
+      //   copyright: `Copyright © ${new Date().getFullYear()} Oh-Laser Co., Ltd.`,
+      // },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
