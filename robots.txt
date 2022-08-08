@@ -1,0 +1,7 @@
+User-agent: *
+Disallow:
+
+User-agent: Algolia Crawler
+Allow: /
+
+Sitemap: https://docs.oh-laser.com/sitemap.xml
