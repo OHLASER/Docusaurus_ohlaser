@@ -50,7 +50,7 @@ const config = {
           ]
         },
         gtag: {
-          trackingID: 'GTM-M3MD5LB',
+          trackingID: 'GTM-MHG4JWG',
           // anonymizeIP: true,
         }
       }),
