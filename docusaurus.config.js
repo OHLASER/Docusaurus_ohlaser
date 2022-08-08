@@ -11,7 +11,7 @@ const config = {
   title: 'support_docs',
   tagline: 'オーレーザーサポート',
   url: 'https://ohlaser.github.io',
-  baseUrl: '/support_docs/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -72,10 +72,6 @@ const config = {
         items: [
         ],
       },
-      // footer: {
-      //   style: 'light',
-      //   copyright: `Copyright © ${new Date().getFullYear()} Oh-Laser Co., Ltd.`,
-      // },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
