@@ -15,12 +15,14 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
+  trailingSlash: 'true',
+  noIndex: 'true', // 默认为 `false`
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'ohlaser', // Usually your GitHub org/user name.
   projectName: 'support_docs', // Usually your repo name.
-
+  deploymentBranch: 'gh-pages',
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
