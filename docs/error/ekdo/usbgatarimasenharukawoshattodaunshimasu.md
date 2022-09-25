@@ -6,7 +6,6 @@
 
 下記ページをご参考ください。
 
-{% content-ref url="../../kihonsousa/harukanoinsutru/mshonsbisuno.md" %}
-[mshonsbisuno.md](../../kihonsousa/harukanoinsutru/mshonsbisuno.md)
-{% endcontent-ref %}
-
+:::note
+[モーションサービスの再起動](/docs/basic/harukanoinsutru/mshonsbisuno)
+:::

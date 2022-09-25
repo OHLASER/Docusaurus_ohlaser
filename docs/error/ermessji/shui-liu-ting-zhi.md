@@ -12,7 +12,7 @@ import TabItem from '@theme/TabItem';
 
 [USBの通信不良](../../sofutoniyorutoraburu/harukaganishinai/sekyuritsofutono.md)ではない場合、水循環ホースやフローセンサー、ウォーターポンプが故障し、誤動作を起こしている可能性があります。この場合、HARUKA の加工開始ウィンドウの「はい」ボタンが押せません。
 
-![](/assets/img20191021\_02.png)
+![](/assets/img20191021_02.png)
 
 ## 解決方法
 

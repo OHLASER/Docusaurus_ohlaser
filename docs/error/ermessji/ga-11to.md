@@ -2,5 +2,6 @@
 
 
 
-{% file src="/assets/20200727_HARUKA_V0.96.0" %}
+{% file src="/assets/20200727_HARUKA_V0.96.0" 
+:::
 

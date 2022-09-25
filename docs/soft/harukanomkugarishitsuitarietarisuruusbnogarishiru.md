@@ -29,9 +29,13 @@ description: グレーの電源マークがついたり消えたりして「加�
 * [セキュリティーソフト](harukaganishinai/sekyuritsofutono.md)で通信を監視、遮断されていないか確認する。
 :::
 
-{% embed url="https://www.amazon.co.jp/dp/B00KKJJCXC/?coliid=I9R7OGQUCPEL4&colid=2P27YP4M43BSD&psc=1" %}
+:::note 外部リンク
+[Amazon.co.jp: エレコム USB3.0 ハブ 4ポート 1ｍ ACアダプタ付 セルフ/バス両対応 MacBook / Surface Pro / Chromebook他 ノートPC Nintendo Switch対応 ブラック U3H-A408SBK : パソコン・周辺機器](https://www.amazon.co.jp/dp/B00KKJJCXC/?coliid=I9R7OGQUCPEL4&colid=2P27YP4M43BSD&psc=1) 
+:::
 
-{% embed url="https://pcinformation.info/peripheral/usb-bus-power.html" %}
+:::note 外部リンク
+[USB バスパワーの電力不足だと正常動作しない - 周辺機器](https://pcinformation.info/peripheral/usb-bus-power.html) 
+:::
 
 ### メイン基板が誤動作している可能性があります
 

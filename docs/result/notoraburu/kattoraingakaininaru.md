@@ -8,9 +8,9 @@ description: 紙をカットするとき起こりやすい
 
 下記症状と同じです。
 
-{% content-ref url="kattoshitanogagizagiza.md" %}
-[kattoshitanogagizagiza.md](kattoshitanogagizagiza.md)
-{% endcontent-ref %}
+:::note
+[断面がギザギザ](/docs/result/notoraburu/kattoshitanogagizagiza)
+:::
 
 :::success
 切断スピードを遅くしてください。

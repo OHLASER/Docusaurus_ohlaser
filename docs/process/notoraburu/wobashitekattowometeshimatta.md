@@ -8,9 +8,9 @@ description: データの読込みはできているのに彫刻しない
 
 HARUKA のシステム条件に合っているか確認します。
 
-{% content-ref url="../../kihonsousa/pcshisutemuno.md" %}
-[pcshisutemuno.md](../../kihonsousa/pcshisutemuno.md)
-{% endcontent-ref %}
+:::note
+[PCの動作環境](/docs/basic/pcshisutemuno)
+:::
 
 ## パソコンのメモリ不足
 
@@ -28,7 +28,9 @@ HARUKA のシステム条件に合っているか確認します。
 システムストレージがSSDのパソコンに買い替えをおすすめします。
 :::
 
-{% embed url="https://www.pc-koubou.jp/products/detail.php?product_id=719680&ref=core_i5_style_note" %}
+:::note 外部リンク
+[iiyama STYLE-15FH050-i5-UCSX [Windows 10 Home]  | パソコン工房【公式通販】](https://www.pc-koubou.jp/products/detail.php?product_id=719680&ref=core_i5_style_note) 
+:::
 
 ## モーション基板との通信不具合
 

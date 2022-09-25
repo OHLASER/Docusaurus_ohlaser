@@ -10,7 +10,7 @@
 
 ※特に汚れやすい素材の為、必ず加工後毎の清掃をお願い致します。
 
-{% content-ref url="../../../defined/kurningunitsuite/woshita.md" %}
-[woshita.md](../../../defined/kurningunitsuite/woshita.md)
-{% endcontent-ref %}
+:::note
+[ＭＤＦや木材を加工した場合](/docs/cleaning/kurningunitsuite/woshita)
+:::
 

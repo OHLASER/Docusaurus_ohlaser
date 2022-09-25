@@ -8,7 +8,9 @@
 
 
 
-{% embed url="https://www.oh-laser.com/application/pcb_mask" %}
+:::note 外部リンク
+[HAJIME レーザー加工機で基板はんだマスクの作成 | オーレーザー](https://www.oh-laser.com/application/pcb_mask) 
+:::
 
 
 

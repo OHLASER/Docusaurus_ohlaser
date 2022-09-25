@@ -20,6 +20,10 @@ HARUKA の内部システムで使われる、Windows 実行ファイルが起�
 
 下記ページを参照して、モーションサービスを再起動してください。
 
+:::note
+[加工開始の「はい」が押せない](/docs/soft/shinai-1/nohaigasenai)
+:::
+
 {% content-ref url="../../sofutoniyorutoraburu/shinai-1/nohaigasenai.md" %}
 [nohaigasenai.md](../../sofutoniyorutoraburu/shinai-1/nohaigasenai.md)
 {% endcontent-ref %}

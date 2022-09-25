@@ -16,9 +16,6 @@
 
 下記ページの手順をご参照ください。
 
-{% content-ref url="../../kihonsousa/harukanoinsutru/usbkdoraibanoinsutru.md" %}
-[usbkdoraibanoinsutru.md](../../kihonsousa/harukanoinsutru/usbkdoraibanoinsutru.md)
-{% endcontent-ref %}
-
-
-
+:::note
+[USBキードライバの手動インストール](/docs/basic/harukanoinsutru/usbkdoraibanoinsutru)
+:::

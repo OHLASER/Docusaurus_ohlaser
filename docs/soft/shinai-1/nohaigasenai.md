@@ -4,7 +4,7 @@ description: 加工開始ウインドウの「はい」ボタンがグレーア�
 
 # 加工開始の「はい」が押せない
 
-![](/assets/img20191021\_02.png)
+![](/assets/img20191021_02.png)
 
 ## モーション基板が旧型の方
 
@@ -14,13 +14,13 @@ description: 加工開始ウインドウの「はい」ボタンがグレーア�
 HARUKA をダウンロードした際のフォルダの中にある、インストールマニュアル P.26「レーザー加工機ドライバの手動インストール」にも掲載しています。
 :::
 
-![Cドライブ > ProgramFiles(x86) > HARUKA のフォルダの中にある「moshidrv64」を起動します。（パソコンが 32bit の方は moshidrv32）](/assets/img20191021\_03.png)
+![Cドライブ > ProgramFiles(x86) > HARUKA のフォルダの中にある「moshidrv64」を起動します。（パソコンが 32bit の方は moshidrv32）](/assets/img20191021_03.png)
 
-![「UNINSTALL」を押して、壊れたドライバを削除します。](/assets/img20191021\_04.png)
+![「UNINSTALL」を押して、壊れたドライバを削除します。](/assets/img20191021_04.png)
 
-![引き続き「INSTALL」を押して、再インストールします。](/assets/img20191021\_05.png)
+![引き続き「INSTALL」を押して、再インストールします。](/assets/img20191021_05.png)
 
-![](/assets/img20191021\_06.png)
+![](/assets/img20191021_06.png)
 
 :::success
 HARUKA を立ち上げ電源投入後、ロゴをドラックしてレーザーヘッドが動くか確認します。
@@ -30,15 +30,15 @@ HARUKA を立ち上げ電源投入後、ロゴをドラックしてレーザー�
 
 一旦 HARUKA を終了後に、サービス管理アプリを起動して、モーションコントロールサービスを再登録してください。
 
-![スタートメニューの「HARUKA」の中にある「サービス管理」を起動します。](/assets/img20191021\_07.png)
+![スタートメニューの「HARUKA」の中にある「サービス管理」を起動します。](/assets/img20191021_07.png)
 
-![スタートメニューに HARUKA フォルダがない場合は、Cドライブ > ProgramFiles(x86) > HARUKA のフォルダの中にある「MotionServiceCtl」を起動します。](/assets/img20191021\_08.png)
+![スタートメニューに HARUKA フォルダがない場合は、Cドライブ > ProgramFiles(x86) > HARUKA のフォルダの中にある「MotionServiceCtl」を起動します。](/assets/img20191021_08.png)
 
-![左上にある「解除」ボタンをクリックします。](/assets/img20191021\_09.png)
+![左上にある「解除」ボタンをクリックします。](/assets/img20191021_09.png)
 
-![解除が登録に変わるので、引き続き「登録」ボタンをクリックします。](/assets/img20191021\_10.png)
+![解除が登録に変わるので、引き続き「登録」ボタンをクリックします。](/assets/img20191021_10.png)
 
-![](/assets/img20191021\_06.png)
+![](/assets/img20191021_06.png)
 
 :::success
 HARUKA を立ち上げ電源投入後、ロゴをドラックしてレーザーヘッドが動くか確認します。

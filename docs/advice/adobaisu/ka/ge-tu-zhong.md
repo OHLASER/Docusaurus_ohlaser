@@ -8,5 +8,7 @@
 
 &#x20;加工する際は、植物由来のタンニンなめしの皮革を御使用いただきますようお願い致します。
 
-{% embed url="https://www.oh-laser.com/tag/leather" %}
+:::note 外部リンク
+[皮革 | オーレーザー](https://www.oh-laser.com/tag/leather) 
+:::
 

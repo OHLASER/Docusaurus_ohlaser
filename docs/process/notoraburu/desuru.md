@@ -37,9 +37,13 @@ HAJIME は加工が終了するまでパソコンからデータを受信して�
 * [セキュリティーソフト](../../sofutoniyorutoraburu/harukaganishinai/sekyuritsofutono.md)で通信を監視、遮断されていないか確認する。
 :::
 
-{% embed url="https://www.amazon.co.jp/dp/B00KKJJCXC/?coliid=I9R7OGQUCPEL4&colid=2P27YP4M43BSD&psc=1" %}
+:::note 外部リンク
+[Amazon.co.jp: エレコム USB3.0 ハブ 4ポート 1ｍ ACアダプタ付 セルフ/バス両対応 MacBook / Surface Pro / Chromebook他 ノートPC Nintendo Switch対応 ブラック U3H-A408SBK : パソコン・周辺機器](https://www.amazon.co.jp/dp/B00KKJJCXC/?coliid=I9R7OGQUCPEL4&colid=2P27YP4M43BSD&psc=1) 
+:::
 
-{% embed url="https://pcinformation.info/peripheral/usb-bus-power.html" %}
+:::note 外部リンク
+[USB バスパワーの電力不足だと正常動作しない - 周辺機器](https://pcinformation.info/peripheral/usb-bus-power.html) 
+:::
 
 :::danger
 アース接地の接続やパソコン環境を整えても症状が回復しない場合は、メイン基板の故障、内部ケーブルの故障が考えられます。（アース接地を行わずに長期間運転した場合、基板にノイズが帯電し続けて故障する可能性があります。）

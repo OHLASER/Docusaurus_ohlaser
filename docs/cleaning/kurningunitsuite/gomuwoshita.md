@@ -10,21 +10,14 @@ description: 素材の中でも特に粉塵が多く、加工機が消耗する�
 
 ※洗剤で掃除した後は必ずアルコールで拭いてください
 
-![住宅用洗剤](/assets/71t3TSbAbHL.\_AC\_SL1000\_.jpg)
+![住宅用洗剤](/assets/71t3TSbAbHL._AC_SL1000_.jpg)
 
-![産業用ワイパー](/assets/71Dnil9A1cL.\_SL1500\_.jpg)
+![産業用ワイパー](/assets/71Dnil9A1cL._SL1500_.jpg)
 
-{% content-ref url="../no-1/rruyano.md" %}
-[rruyano.md](../no-1/rruyano.md)
-{% endcontent-ref %}
+:::note
+[レールや駆動部品の清掃方法](/docs/cleaning/no-1/rruyano)
+:::
 
-{% content-ref url="../no-1/htoshinkufirutno.md" %}
-[htoshinkufirutno.md](../no-1/htoshinkufirutno.md)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-
-
+:::note
+[ヒートシンクの清掃方法](/docs/cleaning/no-1/htoshinkufirutno)
+:::

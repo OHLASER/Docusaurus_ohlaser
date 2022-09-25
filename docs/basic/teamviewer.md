@@ -8,20 +8,22 @@ description: ユーザーのパソコンを遠隔で操作できるソフト
 
 1.「チームビューアー」の公式サイトからセットアップファイルをダウンロードします。
 
-{% embed url="https://www.teamviewer.com/ja/" %}
+:::note 外部リンク
+[TeamViewer – リモート接続ソフトウェア](https://www.teamviewer.com/ja/) 
+:::
 
-![「ダウンロード」をクリックします。](/assets/20191029\_02.png)
+![「ダウンロード」をクリックします。](/assets/20191029_02.png)
 
 
 
-![Windows版TeamViewerの「TEAMVIEWERをダウンロード」をクリックすると、ダウンロードがはじまります。](/assets/20191029\_03.png)
+![Windows版TeamViewerの「TEAMVIEWERをダウンロード」をクリックすると、ダウンロードがはじまります。](/assets/20191029_03.png)
 
 
 
 2.ダウンロードしたセットアップファイルを実行します。
 
-![ダウンロードした「TeamViewer\_Setup.exe」を実行します。](/assets/20191029\_04.png)
+![ダウンロードした「TeamViewer_Setup.exe」を実行します。](/assets/20191029_04.png)
 
 
 
-![「インストール」および「個人/商用以外」を選択して、インストールしてください。](/assets/20191029\_05.png)
+![「インストール」および「個人/商用以外」を選択して、インストールしてください。](/assets/20191029_05.png)

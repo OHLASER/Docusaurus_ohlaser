@@ -16,12 +16,12 @@ description: フォーカスがずれているかレンズ破損の可能性あ�
 
 フォーカスを合わせてもボケたような仕上がりになってしまう場合は、レンズが汚れている可能性があります。
 
-![](/assets/20191112\_03.jpg)
+![](/assets/20191112_03.jpg)
 
 :::info
 レンズのクリーニングをしてください。（特に裏側）
 
-[https://www.oh-laser.com/files/plus\_maintenance.pdf](https://www.oh-laser.com/files/plus\_maintenance.pdf)
+[HAJIME CL1 PLUS メンテナンスマニュアル(PDF)](https://www.oh-laser.com/files/plus_maintenance.pdf) 
 :::
 
 
@@ -30,7 +30,7 @@ description: フォーカスがずれているかレンズ破損の可能性あ�
 
 レンズが汚れたまま使用を続けると、付着した汚れが発熱しコーティングの剥がれの原因となります。
 
-![](/assets/20191112\_02.jpg)
+![](/assets/20191112_02.jpg)
 
 :::danger
 レンズの交換修理が必要です。

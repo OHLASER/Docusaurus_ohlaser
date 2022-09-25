@@ -9,7 +9,7 @@
 耐熱ガラス、厚いガラスでしたら彫刻可能となります。
 
 :::info
-[https://www.oh-laser.com/application/glass\_marking](https://www.oh-laser.com/application/glass\_marking)
+[https://www.oh-laser.com/application/glass_marking](https://www.oh-laser.com/application/glass_marking)
 :::
 
 ## パラメーター

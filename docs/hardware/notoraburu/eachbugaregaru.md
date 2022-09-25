@@ -6,7 +6,7 @@ description: エアーチューブに、たわみ、ねじれがある
 
 エアチューブを抜き差しした際に、たわみ、ねじれがあると、レーザーヘッドが左右に動いたときに、収納位置からはみでてくる場合があります。このときチューブが時計回りにねじれてしまっています。
 
-![](/assets/20191108\_01.jpg)
+![](/assets/20191108_01.jpg)
 
 :::success
 エアーチューブのたわみ、ねじれを直します。
@@ -14,5 +14,5 @@ description: エアーチューブに、たわみ、ねじれがある
 1. 対物レンズ裏側のエアチューブを外し、反時計回りにねじって取り付ける。
 2. レーザーヘッドを左右に動かして、はみ出てこないか確認する。
 
-[https://www.oh-laser.com/files/plus\_maintenance.pdf](https://www.oh-laser.com/files/plus\_maintenance.pdf)
+[HAJIME CL1 PLUS メンテナンスマニュアル(PDF)](https://www.oh-laser.com/files/plus_maintenance.pdf) 
 :::

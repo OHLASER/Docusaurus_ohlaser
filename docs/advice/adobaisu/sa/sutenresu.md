@@ -4,11 +4,11 @@ description: SUS304・306
 
 # ステンレス
 
-![](/assets/20191118\_01.jpg)
+![](/assets/20191118_01.jpg)
 
 オプションのシャープレンズを使用することで彫刻加工が可能です。
 
-![](/assets/20191118\_06.jpg)
+![](/assets/20191118_06.jpg)
 
 ## パラメーター
 
@@ -29,6 +29,8 @@ description: SUS304・306
 
 下記ページも参考にしてください。
 
-{% embed url="https://www.oh-laser.com/application/metal_processing" %}
+:::note 外部リンク
+[HAJIME レーザー加工機で金属にレーザー加工してみました | オーレーザー](https://www.oh-laser.com/application/metal_processing) 
+:::
 
 ※素材にアルミなどが混ざっている場合、彫刻ができない可能性がございます。

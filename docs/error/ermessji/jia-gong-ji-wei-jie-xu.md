@@ -16,14 +16,14 @@ description: 「加工機:未接続」と「加工機：接続」が交互に表
 
 上記の症状が生じる場合、下記解決方法を参考し、試してください。
 
-{% content-ref url="../../sofutoniyorutoraburu/harukanomkugarishitsuitarietarisuruusbnogarishiru.md" %}
-[harukanomkugarishitsuitarietarisuruusbnogarishiru.md](../../sofutoniyorutoraburu/harukanomkugarishitsuitarietarisuruusbnogarishiru.md)
-{% endcontent-ref %}
+:::note
+[HARUKAの電源がついたり消えたりする](/soft/harukanomkugarishitsuitarietarisuruusbnogarishiru)
+:::
 
-{% content-ref url="../../kihonsousa/usb-hubno.md" %}
-[usb-hubno.md](../../kihonsousa/usb-hubno.md)
-{% endcontent-ref %}
+:::note
+[USB-HUBの選定](/docs/basic/usb-hubno)
+:::
 
-{% content-ref url="../../kihonsousa/harukagashinai.md" %}
-[harukagashinai.md](../../kihonsousa/harukagashinai.md)
-{% endcontent-ref %}
+:::note
+[USBポート制限ソフト](/docs/basic/harukagashinai)
+:::

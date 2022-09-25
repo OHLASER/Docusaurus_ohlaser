@@ -4,7 +4,7 @@ description: 作成したデータのサイズよりも小さくなる
 
 # 仕上がりサイズが小さい
 
-![](/assets/20191112\_05.jpg)
+![](/assets/20191112_05.jpg)
 
 加工時に照射されるレーザービームのスポット径は、HAJIME の標準レンズで 0.08mm ほどですが、照射された加工素材が熱吸収し昇華すると、0.2mm ～ 0.8mm ほどのカットラインになります。（素材の熱吸収特性による）
 
@@ -16,10 +16,10 @@ description: 作成したデータのサイズよりも小さくなる
 
 レンズに汚れが付着して、スポット径が大きくなっている可能性があります。
 
-![](/assets/20191112\_03.jpg)
+![](/assets/20191112_03.jpg)
 
 :::success
 レンズのクリーニングをしてください。（特に裏側）
 
-​[https://www.oh-laser.com/files/plus\_maintenance.pdf](https://www.oh-laser.com/files/plus\_maintenance.pdf)​‌
+[HAJIME CL1 PLUS メンテナンスマニュアル(PDF)](https://www.oh-laser.com/files/plus_maintenance.pdf) 
 :::

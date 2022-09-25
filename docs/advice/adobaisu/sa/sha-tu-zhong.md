@@ -1,6 +1,6 @@
 # 杉
 
-![](/assets/sugi\_itame\_m.jpg)
+![](/assets/sugi_itame_m.jpg)
 
 ### パラメーター
 

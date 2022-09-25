@@ -14,9 +14,9 @@ description: 主電源が入っているのに「加工機:未接続」と表示
 
 またノートＰＣを使用している場合や、ＰＣメーカーによっては電力供給が少ない機種もございます。電力供給型のＨＵＢを経由する事で通信が安定する事がありますのでお試しください。
 
-{% content-ref url="../../kihonsousa/usb-hubno.md" %}
-[usb-hubno.md](../../kihonsousa/usb-hubno.md)
-{% endcontent-ref %}
+:::note
+[USB-HUBの選定](/docs/basic/usb-hubno)
+:::
 
 ### USBケーブルの故障
 

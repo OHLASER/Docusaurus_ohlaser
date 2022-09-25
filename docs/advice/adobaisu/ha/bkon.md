@@ -1,4 +1,3 @@
 # ベーコン
 
-{% embed url="https://www.youtube.com/watch?v=im5as97YeVg" %}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/im5as97YeVg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

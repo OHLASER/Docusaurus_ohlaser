@@ -2,19 +2,19 @@
 
 症状に該当するページをご参考ください。
 
-{% content-ref url="../../jia-gong-zhong-duan/notoraburu-1/gakutedekinai.md" %}
-[gakutedekinai.md](../../jia-gong-zhong-duan/notoraburu-1/gakutedekinai.md)
-{% endcontent-ref %}
+:::note
+[水温が高くて加工できない](/docs/process/notoraburu-1/gakutedekinai)
+:::
 
-{% content-ref url="nohaigasenai.md" %}
-[nohaigasenai.md](nohaigasenai.md)
-{% endcontent-ref %}
+:::note
+[加工開始の「はい」が押せない](/docs/soft/shinai-1/nohaigasenai)
+:::
 
-{% content-ref url="haiwoshitemosuttoshinai.md" %}
-[haiwoshitemosuttoshinai.md](haiwoshitemosuttoshinai.md)
-{% endcontent-ref %}
+:::note
+[「はい」を押しても始まらない](/docs/soft/shinai-1/haiwoshitemosuttoshinai)
+:::
 
-{% content-ref url="debaisumanjno.md" %}
-[debaisumanjno.md](debaisumanjno.md)
-{% endcontent-ref %}
+:::note
+[ドライバー確認方法](/docs/soft/shinai-1/debaisumanjno)
+:::
 

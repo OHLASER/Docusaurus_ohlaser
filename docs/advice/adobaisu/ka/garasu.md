@@ -9,7 +9,9 @@
 
 ※ボトル型の側面彫刻はフォーカスが合わず加工が難しい場合がございます。
 
-{% embed url="https://www.oh-laser.com/application/glass_marking" %}
+:::note 外部リンク
+[ガラスをレーザーで加工してみました | オーレーザー](https://www.oh-laser.com/application/glass_marking) 
+:::
 
 
 

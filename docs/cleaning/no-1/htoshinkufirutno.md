@@ -20,11 +20,11 @@ description: MDFや木材、アクリル、ゴム板の加工を行っている�
 
 ### 1. ヒートシンクグレー（金属）の掃除
 
-![](/assets/IMG\_09062.jpg)
+![](/assets/IMG_09062.jpg)
 
 直接キッチン用マジックリンを網目の隙間になじませるよう吹きかけて30分程置いて汚れを溶かし落としてください。
 
-![](/assets/IMG\_0909.JPG)
+![](/assets/IMG_0909.JPG)
 
 汚れが溶けだしたら、しっかりと水洗いをしてください。
 
@@ -40,18 +40,20 @@ description: MDFや木材、アクリル、ゴム板の加工を行っている�
 
 2回程はキッチンマジックリンで洗う事で綺麗になりますが、綿がやせてきたら新しいフィルターに交換をお願い致します。
 
-![](/assets/IMG\_0915.JPG)
+![](/assets/IMG_0915.JPG)
 
 洗浄後はしっかりと乾かしてから使用してください。
 
 ### **3. ヒートシンクの排気口の掃除**
 
-![](/assets/IMG\_08752.jpg)
+![](/assets/IMG_08752.jpg)
 
 フィルターを外すと格子状の排気口があります。ここにも粉塵がたくさん付着していますのでマジックリンをつけたウエスや綿棒でしっかりと汚れを落としてください。
 
-![](/assets/IMG\_08792.jpg)
+![](/assets/IMG_08792.jpg)
 
 掃除前（左）と掃除後（右）の比較
 
-{% embed url="https://www.oh-laser.com/files/plus_maintenance.pdf" %}
+:::note 外部リンク
+[HAJIME CL1 PLUS メンテナンスマニュアル(PDF)](https://www.oh-laser.com/files/plus_maintenance.pdf) 
+:::

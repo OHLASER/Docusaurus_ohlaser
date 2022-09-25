@@ -6,9 +6,9 @@ description: 下記の症状と同じです。
 
 
 
-{% content-ref url="dtawomimenai.md" %}
-[dtawomimenai.md](dtawomimenai.md)
-{% endcontent-ref %}
+:::note
+[データが開けない](/docs/soft/dtawomimenai)
+:::
 
 ## 直接読み込みできるが、転送ができない。
 

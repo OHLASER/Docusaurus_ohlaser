@@ -1,6 +1,6 @@
 # 合成革皮
 
-![](/assets/561460\_l.jpg)
+![](/assets/561460_l.jpg)
 
 【PVC】塩ビ素材となりますので加工は行わないようお願い致します。
 
@@ -11,5 +11,7 @@
 こちらレーザー加工が可能の合成皮革となります。\
 
 
-{% embed url="https://laser-style.net/?mode=cate&cbid=2437876&csid=0" %}
+:::note 外部リンク
+[シンセティックレザー - レーザー加工用材料・商材販売サイトLASER STYLE(レーザースタイル)](https://laser-style.net/?mode=cate&cbid=2437876&csid=0) 
+:::
 

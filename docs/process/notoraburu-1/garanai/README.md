@@ -12,19 +12,18 @@ description: 下の症状から選択
 
 ### 1. 電源を押しても入らない
 
-{% content-ref url="nobotanwoshitemogaranai.md" %}
-[nobotanwoshitemogaranai.md](nobotanwoshitemogaranai.md)
-{% endcontent-ref %}
+:::note
+[電源を押しても入らない](/docs/process/notoraburu-1/garanai/nobotanwoshitemogaranai)
+:::
 
 ### 2. 電源投入直後に落ちる
 
-{% content-ref url="nigachiru.md" %}
-[nigachiru.md](nigachiru.md)
-{% endcontent-ref %}
+:::note
+[電源投入直後に落ちる](/docs/process/notoraburu-1/garanai/nigachiru)
+:::
 
 ### 3. 電源投入後しばらくして落ちる
 
-{% content-ref url="gattekara15guraidechiru.md" %}
-[gattekara15guraidechiru.md](gattekara15guraidechiru.md)
-{% endcontent-ref %}
-
+:::note
+[電源投入後しばらくして落ちる](/docs/process/notoraburu-1/garanai/gattekara15guraidechiru)
+:::

@@ -29,21 +29,22 @@ HARUKA が正常に動作するためのシステム条件は下記の通りで�
 スペックが足りていても、インストールされているソフトが多くてパソコンの動作が重い場合は同様の動作異常が起こる可能性があります。
 :::
 
-{% content-ref url="../sofutoniyorutoraburu/harukaganishinai/sekyuritsofutono.md" %}
-[sekyuritsofutono.md](../sofutoniyorutoraburu/harukaganishinai/sekyuritsofutono.md)
-{% endcontent-ref %}
-
+:::note
+[セキュリティーソフト](/docs/soft/harukaganishinai/sekyuritsofutono/)
+:::
 
 
 ### Windows 10 バージョン確認方法
 
-![1. キーボードの「WINマーク」+「X」を押して「システム」をクリックします。](/assets/20191015\_01.png)
+![1. キーボードの「WINマーク」+「X」を押して「システム」をクリックします。](/assets/20191015_01.png)
 
-![2. HARUKA のシステム条件と合っているか確認します。](/assets/20191015\_02.png)
+![2. HARUKA のシステム条件と合っているか確認します。](/assets/20191015_02.png)
 
 ## おすすめPC
 
-{% embed url="https://www.pc-koubou.jp/products/detail.php?product_id=719680&ref=core_i5_style_note" %}
+:::note 外部リンク
+[iiyama STYLE-15FH050-i5-UCSX [Windows 10 Home]  | パソコン工房【公式通販】](https://www.pc-koubou.jp/products/detail.php?product_id=719680&ref=core_i5_style_note) 
+:::
 
 ## 常駐ソフトは最小限に
 
@@ -61,13 +62,17 @@ HARUKA が正常に動作するためのシステム条件は下記の通りで�
 システムストレージが SSD のパソコンに買い替えをおすすめしてください。
 :::
 
-{% embed url="https://www.pc-koubou.jp/products/detail.php?product_id=719680&ref=core_i5_style_note" %}
+:::note 外部リンク
+[iiyama STYLE-15FH050-i5-UCSX [Windows 10 Home]  | パソコン工房【公式通販】](https://www.pc-koubou.jp/products/detail.php?product_id=719680&ref=core_i5_style_note) 
+:::
 
 ## USBポート電力供給不足省電力仕様のパソコン
 
 モバイルノートなどの省電力仕様のパソコンだと、USB ポートのパワー不足で通信が不安定になることがあります。
 
-{% embed url="https://pcinformation.info/peripheral/usb-bus-power.html" %}
+:::note 外部リンク
+[USB バスパワーの電力不足だと正常動作しない - 周辺機器](https://pcinformation.info/peripheral/usb-bus-power.html) 
+:::
 
 :::success
 セルフパワータイプの USB ハブ使用する。
@@ -75,4 +80,6 @@ HARUKA が正常に動作するためのシステム条件は下記の通りで�
 
 ### 推奨 USBポート拡張 USB-HUB（セルフパワー）
 
-{% embed url="https://www.amazon.co.jp/dp/B00KKJJCXC/?coliid=I9R7OGQUCPEL4&colid=2P27YP4M43BSD&psc=1" %}
+:::note 外部リンク
+[Amazon.co.jp: エレコム USB3.0 ハブ 4ポート 1ｍ ACアダプタ付 セルフ/バス両対応 MacBook / Surface Pro / Chromebook他 ノートPC Nintendo Switch対応 ブラック U3H-A408SBK : パソコン・周辺機器](https://www.amazon.co.jp/dp/B00KKJJCXC/?coliid=I9R7OGQUCPEL4&colid=2P27YP4M43BSD&psc=1) 
+:::

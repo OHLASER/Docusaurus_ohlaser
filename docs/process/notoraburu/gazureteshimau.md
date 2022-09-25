@@ -14,9 +14,9 @@ description: 左上の加工開始位置がずれる
 
 **リニアブッシュの汚れ**
 
-![](/assets/20191023\_01.jpg)
+![](/assets/20191023_01.jpg)
 
-![](/assets/20191023\_02.jpg)
+![](/assets/20191023_02.jpg)
 
 リニアブッシュのベアリングの中にヤニなど粘性のある汚れが溜まると、レーザーヘッドがスムーズに動かなくなり、ずれが生じる場合があります。Y軸シャフトおよびリニアブッシュのクリーニングを勧めてください。
 
@@ -28,11 +28,17 @@ Y軸にオイル（潤滑油・サビ止めオイル）を塗り、しばらく�
 
 ※この時リミットスイッチにオイルが流れない様気をつけてください。&#x20;
 
-{% embed url="https://www.oh-laser.com/files/plus_maintenance.pdf" %}
+:::note 外部リンク
+[HAJIME CL1 PLUS メンテナンスマニュアル(PDF)](https://www.oh-laser.com/files/plus_maintenance.pdf) 
+:::
 
-{% embed url="https://www.amazon.co.jp/%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%83%AA%E3%83%B3-%E3%83%8F%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%83%BC-400ml/dp/B00YQT5LAK/ref=asc_df_B00YQT5LAK/?tag=jpgo-22&linkCode=df0&hvadid=218035196566&hvpos=1o1&hvnetw=g&hvrand=8000430151227652687&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1028851&hvtargid=pla-352397594147&psc=1&th=1&psc=1" %}
+:::note 外部リンク
+[Amazon | マジックリン ハンディスプレー 400ml | 花王(Kao) | キッチンクリーナー剤](https://www.amazon.co.jp/%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%83%AA%E3%83%B3-%E3%83%8F%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%83%BC-400ml/dp/B00YQT5LAK/ref=asc_df_B00YQT5LAK/?tag=jpgo-22&linkCode=df0&hvadid=218035196566&hvpos=1o1&hvnetw=g&hvrand=8000430151227652687&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1028851&hvtargid=pla-352397594147&psc=1&th=1&psc=1) 
+:::
 
-{% embed url="https://www.amazon.co.jp/dp/B079FM13BP/?coliid=I1AD0JOYUOH8CL&colid=2P27YP4M43BSD&psc=0&ref_=lv_ov_lig_dp_it" %}
+:::note 外部リンク
+[Amazon | スズキ機工 超極圧潤滑剤 LSベルハンマーゴールド 原液80ml LSBH-G14 | 工業用潤滑剤 | 産業・研究開発用品 通販](https://www.amazon.co.jp/dp/B079FM13BP/?coliid=I1AD0JOYUOH8CL&colid=2P27YP4M43BSD&psc=0&ref_=lv_ov_lig_dp_it) 
+:::
 
 :::danger
 清掃を行っても改善されない場合は中のベアリングが錆びている可能性があります。リニアブッシュの交換修理が必要です。

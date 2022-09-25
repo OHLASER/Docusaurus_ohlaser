@@ -6,6 +6,6 @@ description: 本体とパソコンとの通信エラー
 
 下記の症状と同じです。
 
-{% content-ref url="desuru.md" %}
-[desuru.md](desuru.md)
-{% endcontent-ref %}
+:::note
+[加工途中で停止する](/docs/process/notoraburu/desuru)
+:::

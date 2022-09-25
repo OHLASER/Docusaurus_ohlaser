@@ -16,9 +16,9 @@ HARUKA を再起動します。フリーズしている場合は強制終了し�
 
 ### 対策法：強制終了する
 
-![1. キーボードの「WINマーク」+「X」を押して「タスクマネージャー」をクリックします。](/assets/20191107\_02.png)
+![1. キーボードの「WINマーク」+「X」を押して「タスクマネージャー」をクリックします。](/assets/20191107_02.png)
 
-![2. プロセスタブの「HARUKA（32ビット）」を右クリックして「タスクの終了」を選びます。](/assets/20191107\_03.png)
+![2. プロセスタブの「HARUKA（32ビット）」を右クリックして「タスクの終了」を選びます。](/assets/20191107_03.png)
 
 HARUKA を再起動してください。
 
@@ -32,6 +32,6 @@ HARUKA を再起動してください。
 
 下記ページの方法をご参照ください。
 
-{% content-ref url="../../jia-gong-zhong-duan/notoraburu/inanonininatteshimau.md" %}
-[inanonininatteshimau.md](../../jia-gong-zhong-duan/notoraburu/inanonininatteshimau.md)
-{% endcontent-ref %}
+:::note
+[「はい」を押しても始まらない](/docs/process/notoraburu/inanonininatteshimau)
+:::

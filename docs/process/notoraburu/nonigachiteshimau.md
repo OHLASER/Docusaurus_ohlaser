@@ -26,19 +26,19 @@ import TabItem from '@theme/TabItem';
 :::success
 <Tabs>
 <TabItem value="HAJIME" label="HAJIME">
-冷却水に問題があるかもしれません。水量の確認、交換、[ウォータータンクのクリーニング](../notoraburu-1/garanai/gattekara15guraidechiru.md)を行ってください。また、フローセンサーの信号を、HARUKA が正しく受け取れていない可能性があります。[USB 接続](../../sofutoniyorutoraburu/harukanomkugarishitsuitarietarisuruusbnogarishiru.md)環境を確認してください。
+冷却水に問題があるかもしれません。水量の確認、交換、[ウォータータンクのクリーニング](/docs/process/notoraburu-1/garanai/gattekara15guraidechiru)を行ってください。また、フローセンサーの信号を、HARUKA が正しく受け取れていない可能性があります。[USB 接続](/soft/harukanomkugarishitsuitarietarisuruusbnogarishiru)環境を確認してください。
 
 上記を行っても回復しない場合は、フローセンサー、ウォーターポンプが故障しています。交換修理が必要です。
 </TabItem>
 
 <TabItem value="HAJIME CL1" label="HAJIME CL1">
-冷却水に問題があるかもしれません。水量の確認、交換、[ウォータータンクのクリーニング](../notoraburu-1/garanai/gattekara15guraidechiru.md)を行ってください。また、フローセンサーの信号を、HARUKA が正しく受け取れていない可能性があります。[USB 接続](../../sofutoniyorutoraburu/harukanomkugarishitsuitarietarisuruusbnogarishiru.md)環境を確認してください。
+冷却水に問題があるかもしれません。水量の確認、交換、[ウォータータンクのクリーニング](../notoraburu-1/garanai/gattekara15guraidechiru.md)を行ってください。また、フローセンサーの信号を、HARUKA が正しく受け取れていない可能性があります。[USB 接続](/soft/harukanomkugarishitsuitarietarisuruusbnogarishiru)環境を確認してください。
 
 上記を行っても回復しない場合は、フローセンサー、ウォーターポンプが故障しています。交換修理が必要です。
 </TabItem>
 
 <TabItem value="HAJIME CL1 PLUS" label="HAJIME CL1 PLUS">
-フローセンサーの信号を、HARUKA が正しく受け取れていない可能性があります。[USB 接続](../../sofutoniyorutoraburu/harukanomkugarishitsuitarietarisuruusbnogarishiru.md)環境を確認してください。
+フローセンサーの信号を、HARUKA が正しく受け取れていない可能性があります。[USB 接続](/soft/harukanomkugarishitsuitarietarisuruusbnogarishiru)環境を確認してください。
 
 USB 接続環境に問題が無い場合は、フローセンサー、ウォーターポンプが故障しています。交換修理が必要です。
 </TabItem>
@@ -69,7 +69,9 @@ USB 接続環境に問題が無い場合は、フローセンサー、ウォー�
 </Tabs>
 :::
 
-{% embed url="https://www.oh-laser.com/files/miruku_maintenance.pdf" %}
+:::note 外部リンク
+[MIRUKU メンテナンスマニュアル(PDF)](https://www.oh-laser.com/files/miruku_maintenance.pdf) 
+:::
 
 ### **3.フタを閉じているのに「フタ：開いてます」が表示する場合**
 
@@ -106,7 +108,9 @@ USB 接続環境に問題が無い場合は、フローセンサー、ウォー�
 * [セキュリティーソフト](../../sofutoniyorutoraburu/harukaganishinai/sekyuritsofutono.md)で通信を監視、遮断されていないか確認する。
 :::
 
-{% embed url="https://www.amazon.co.jp/dp/B00KKJJCXC/?coliid=I9R7OGQUCPEL4&colid=2P27YP4M43BSD&psc=1" %}
+:::note 外部リンク
+[Amazon.co.jp: エレコム USB3.0 ハブ 4ポート 1ｍ ACアダプタ付 セルフ/バス両対応 MacBook / Surface Pro / Chromebook他 ノートPC Nintendo Switch対応 ブラック U3H-A408SBK : パソコン・周辺機器](https://www.amazon.co.jp/dp/B00KKJJCXC/?coliid=I9R7OGQUCPEL4&colid=2P27YP4M43BSD&psc=1) 
+:::
 
 ## メイン基板が誤動作している可能性があります
 

@@ -12,31 +12,31 @@
 
 ### 2. HARUKAの設定フォルダに異常があります。
 
-{% content-ref url="../../er/ekdo/runtime-error-217-at-0bfba3dd-tu-zhong.md" %}
-[runtime-error-217-at-0bfba3dd-tu-zhong.md](../../er/ekdo/runtime-error-217-at-0bfba3dd-tu-zhong.md)
-{% endcontent-ref %}
+:::note
+[Runtime error 217](/docs/error/ekdo/runtime-error-217-at-0bfba3dd-tu-zhong)
+:::
 
 ### 3. セキュリティーソフトに制限されている可能性があります。
 
-{% content-ref url="sekyuritsofutono.md" %}
-[sekyuritsofutono.md](sekyuritsofutono.md)
-{% endcontent-ref %}
+:::note
+[セキュリティーソフト](/docs/soft/harukaganishinai/sekyuritsofutono/)
+:::
 
 ### 4. ユーザーフォルダの一時ファイルが溜まっている可能性があります。
 
-{% content-ref url="fairu.md" %}
-[fairu.md](fairu.md)
-{% endcontent-ref %}
+:::note
+[ユーザーフォルダの一時ファイル](/docs/soft/harukaganishinai/fairu)
+:::
 
 ### 5. （管理されているパソコン）Active Directoryに制限されている可能性があります。
 
-{% content-ref url="akutibudirekutori.md" %}
-[akutibudirekutori.md](akutibudirekutori.md)
-{% endcontent-ref %}
+:::note
+[アクティブディレクトリ](/docs/soft/harukaganishinai/akutibudirekutori)
+:::
 
 ### 6. マカフィーによって必要なファイルが削除されている可能性があります。
 
-{% content-ref url="mcafee.md" %}
-[mcafee.md](mcafee.md)
-{% endcontent-ref %}
+:::note
+[McAfee による誤検知の対策](/docs/soft/harukaganishinai/mcafee)
+:::
 

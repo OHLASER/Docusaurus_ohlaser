@@ -12,9 +12,9 @@ description: 駆動部品に不具合がある可能性が高い
 
 ## 彫刻途中でずれる・切断がゆがむ
 
-![](/assets/20191030\_01.png)
+![](/assets/20191030_01.png)
 
-![](/assets/20191030\_02.png)
+![](/assets/20191030_02.png)
 
 ### リニアブッシュに汚れが溜まっている可能性があります。
 
@@ -24,7 +24,9 @@ Y軸シャフトにあるリニアブッシュに汚れが溜まると、レー�
 [リニアブッシュのメンテナンス](../../jia-gong-zhong-duan/notoraburu/gazureteshimau.md#ttanozure)をしてください。
 :::
 
-{% embed url="https://www.oh-laser.com/files/plus_maintenance.pdf" %}
+:::note 外部リンク
+[HAJIME CL1 PLUS メンテナンスマニュアル(PDF)](https://www.oh-laser.com/files/plus_maintenance.pdf) 
+:::
 
 ### 駆動部品が消耗している可能性があります。
 
@@ -36,7 +38,7 @@ Y軸シャフトにあるリニアブッシュに汚れが溜まると、レー�
 
 ## 彫刻位置がずれる
 
-![](/assets/20191030\_03.png)
+![](/assets/20191030_03.png)
 
 ### モーション基板に不具合がある可能性があります。
 
@@ -48,7 +50,7 @@ HARUKA パラメータの「彫刻速度を 20cm/秒 以下」、「移動速度
 
 ## 切断時に角部がずれる
 
-![](/assets/20191030\_04.png)
+![](/assets/20191030_04.png)
 
 切断スピードが速すぎるとレーザーヘッドが脱調し、ずれが生じる時があります。
 

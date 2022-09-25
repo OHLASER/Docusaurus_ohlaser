@@ -1,6 +1,6 @@
 # コルク
 
-![](/assets/61GD0JOB3kL.\_AC\_SL1200\_.jpg)
+![](/assets/61GD0JOB3kL._AC_SL1200_.jpg)
 
 
 

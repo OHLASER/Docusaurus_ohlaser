@@ -20,7 +20,7 @@ import TabItem from '@theme/TabItem';
 
 背面パネルにあるヒューズホルダーを開け、ヒューズを取り出します。黒くなっている場合はヒューズが切れています。
 
-![※ HAJIME CL1 PLUS は予備のヒューズが一つ入っています。](/assets/20191016\_02.png)
+![※ HAJIME CL1 PLUS は予備のヒューズが一つ入っています。](/assets/20191016_02.png)
 
 <Tabs>
 <TabItem value="HAJIME CL1 PLUS / HAJIME CL1" label="HAJIME CL1 PLUS / HAJIME CL1">
@@ -28,9 +28,7 @@ import TabItem from '@theme/TabItem';
 
 主電源スイッチをオフにします。本体電源コード（3P）を抜くと、ヒューズホルダーが出せるようになります。上の溝につめを引っ掛けて手前に引き出します。（固い場合はマイナスドライバーなどを使用してください）
 
-{% embed url="https://youtu.be/BqsotGxhWio" %}
-ヒューズ交換方法
-{% endembed %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BqsotGxhWio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </TabItem>
 
 <TabItem value="HAJIME" label="HAJIME">
@@ -48,9 +46,9 @@ import TabItem from '@theme/TabItem';
 
 下記リンクをご参考の上、ヒューズを交換してください。
 
-{% embed url="https://www.amazon.co.jp/dp/B001TVN5LU/?coliid=I3BISY677LYEU1&colid=2P27YP4M43BSD&psc=0" %}
-購入リンク
-{% endembed %}
+:::note 外部リンク
+[Amazon.co.jp: OHM ミニ管 ヒューズ 10A-250V 4本 (04-1678): DIY・工具・ガーデン](https://www.amazon.co.jp/dp/B001TVN5LU/?coliid=I3BISY677LYEU1&colid=2P27YP4M43BSD&psc=0) 
+:::
 
 :::danger
 ヒューズを交換してもすぐ同じように切れる場合、漏電している可能性があります。内部部品が壊れているので修理が必要です。（部品不良、落雷による故障の可能性あり）
@@ -85,7 +83,9 @@ HAJIME とパソコンとの USB 接続ができていない場合に起こり�
 * [セキュリティーソフト](../../../sofutoniyorutoraburu/harukaganishinai/sekyuritsofutono.md)で通信を監視、遮断されていないか確認する。
 :::
 
-{% embed url="https://www.amazon.co.jp/dp/B00KKJJCXC/?coliid=I9R7OGQUCPEL4&colid=2P27YP4M43BSD&psc=1" %}
+:::note 外部リンク
+[Amazon.co.jp: エレコム USB3.0 ハブ 4ポート 1ｍ ACアダプタ付 セルフ/バス両対応 MacBook / Surface Pro / Chromebook他 ノートPC Nintendo Switch対応 ブラック U3H-A408SBK : パソコン・周辺機器](https://www.amazon.co.jp/dp/B00KKJJCXC/?coliid=I9R7OGQUCPEL4&colid=2P27YP4M43BSD&psc=1) 
+:::
 
 ### **2. グレーの電源マークがある。（HARUKA ステータス「加工機：接続中」）**
 
@@ -99,7 +99,7 @@ HARUKA がフリーズして反応していません。
 
 強制終了の方法
 
-![キーボードの「Ctrl」+「Alt」+「Del」を押して「タスクマネージャー」を起動します。](/assets/img20191021\_01.png)
+![キーボードの「Ctrl」+「Alt」+「Del」を押して「タスクマネージャー」を起動します。](/assets/img20191021_01.png)
 
 プロセスのアプリの中から「HARUKA（32ビット）」を右クリックして「タスクの終了」をクリックします。
 

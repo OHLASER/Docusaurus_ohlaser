@@ -24,7 +24,9 @@ Windows Update後、HARUKA を再度インストールしてください。
 
 Windows Updateを行っていただいても改善しない場合は、「**Visual Studio 2015 の Visual C++ 再頒布可能パッケージ**」を 一旦削除後、再インストールしていただき、HARUKA の動作を再度ご確認ください。
 
-{% embed url="https://www.microsoft.com/ja-jp/download/details.aspx?id=52685" %}
+:::note 外部リンク
+[Download Microsoft Visual C++ 2015 再頒布可能パッケージ Update 3 RC from Official Microsoft Download Center](https://www.microsoft.com/ja-jp/download/details.aspx?id=52685) 
+:::
 
 :::success
 Microsoft のサイトより、「Visual Studio 2015 の Visual C++ 再頒布可能パッケージ」をダウンロードし、インストールします。

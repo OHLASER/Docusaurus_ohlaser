@@ -16,17 +16,17 @@ description: MDFや木材、アクリル、ゴム板の加工を行っている�
 
 **気化して固まるアクリル、ヤニが多いMDF、煙が多いゴム板の場合は「アルカリ性洗剤」ではないと汚れが落ちません。業務用のアルカリ性洗剤は強すぎてしまい板金を痛めてしまう為「キッチン用のマジックリン」がお勧めです。**
 
-![一回拭いた時のヤニ落ち具合比較](/assets/IMG\_08322.jpg)
+![一回拭いた時のヤニ落ち具合比較](/assets/IMG_08322.jpg)
 
-{% embed url="https://www.amazon.co.jp/%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%83%AA%E3%83%B3-%E3%83%8F%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%83%BC-400ml/dp/B00YQT5LAK/ref=asc_df_B00YQT5LAK/?tag=jpgo-22&linkCode=df0&hvadid=218035196566&hvpos=1o1&hvnetw=g&hvrand=8000430151227652687&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1028851&hvtargid=pla-352397594147&psc=1&th=1&psc=1" %}
-マジックリン
-{% endembed %}
+:::note 外部リンク
+[Amazon | マジックリン ハンディスプレー 400ml | 花王(Kao) | キッチンクリーナー剤](https://www.amazon.co.jp/%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%83%AA%E3%83%B3-%E3%83%8F%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%83%BC-400ml/dp/B00YQT5LAK/ref=asc_df_B00YQT5LAK/?tag=jpgo-22&linkCode=df0&hvadid=218035196566&hvpos=1o1&hvnetw=g&hvrand=8000430151227652687&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1028851&hvtargid=pla-352397594147&psc=1&th=1&psc=1) 
+:::
 
 ## 清掃手順
 
 ### **1. Ｙ軸レールの掃除**
 
-![](/assets/IMG\_08462.jpg)
+![](/assets/IMG_08462.jpg)
 
 Ｙ軸は帯状に折りたたんだウエスを潜らせてマジックリンを吹きかけ、しっかりと拭いてください。
 
@@ -48,23 +48,25 @@ Y軸にオイル（潤滑油・サビ止めオイル）を塗り、しばらく�
 
 潤滑油は下記の商品をお勧めします
 
-{% embed url="https://www.amazon.co.jp/dp/B079FM13BP/?coliid=I1AD0JOYUOH8CL&colid=2P27YP4M43BSD&psc=0&ref_=lv_ov_lig_dp_it" %}
+:::note 外部リンク
+[Amazon | スズキ機工 超極圧潤滑剤 LSベルハンマーゴールド 原液80ml LSBH-G14 | 工業用潤滑剤 | 産業・研究開発用品 通販](https://www.amazon.co.jp/dp/B079FM13BP/?coliid=I1AD0JOYUOH8CL&colid=2P27YP4M43BSD&psc=0&ref_=lv_ov_lig_dp_it) 
+:::
 
 **Ｙ軸に異音や引っかかりがある場合**
 
-{% content-ref url="../../jia-gong-zhong-duan/notoraburu/gazureteshimau.md" %}
-[gazureteshimau.md](../../jia-gong-zhong-duan/notoraburu/gazureteshimau.md)
-{% endcontent-ref %}
+:::note
+[原点がずれる](/docs/process/notoraburu/gazureteshimau)
+:::
 
 ### **2. ハニカムボードを設置するフレームの掃除**
 
-![](/assets/IMG\_08492.jpg)
+![](/assets/IMG_08492.jpg)
 
 忘れがちなハニカムボードを設置するフレームの裏側もヤニがついていますので、マジックリンでの掃除をお願いします。
 
 ### 3. レーザーヘッドのローラーの掃除
 
-![](/assets/IMG\_08682.jpg)
+![](/assets/IMG_08682.jpg)
 
 ヘッドについているローラーは、マジックリンを吹きかけたウエスをローラーに優しく添えながらヘッドを動かしてください。
 
@@ -72,11 +74,11 @@ Y軸にオイル（潤滑油・サビ止めオイル）を塗り、しばらく�
 
 ### 4. Ｘ軸レールの掃除
 
-![](/assets/IMG\_08592.jpg)
+![](/assets/IMG_08592.jpg)
 
 上から見える溝の部分や下の部分もマジックリンを使用して丁寧に拭いてください。
 
-![](/assets/IMG\_08672.jpg)
+![](/assets/IMG_08672.jpg)
 
 掃除が難しい隙間も、マジックリンをつけた折りたたんだウエスを使用して掃除をお願いします。
 
@@ -86,7 +88,9 @@ Y軸にオイル（潤滑油・サビ止めオイル）を塗り、しばらく�
 
 
 
-{% embed url="https://www.oh-laser.com/files/plus_maintenance.pdf" %}
+:::note 外部リンク
+[HAJIME CL1 PLUS メンテナンスマニュアル(PDF)](https://www.oh-laser.com/files/plus_maintenance.pdf) 
+:::
 
 
 
