@@ -21,11 +21,11 @@ import TabItem from '@theme/TabItem';
 <Tabs>
 
 <TabItem value="HAJIME" label="HAJIME">
-[USB通信の確認](/docs/soft/harukaganishinai/sekyuritsofutono)、[ウォータータンクの清掃](../../jia-gong-zhong-duan/notoraburu-1/garanai/gattekara15guraidechiru.md#wttankuno)を行っても回復しない場合は、水循環ホース、フローセンサー、ウォーターポンプいずれかの交換修理が必要です。
+[USB通信の確認](/docs/soft/harukaganishinai/sekyuritsofutono)、[ウォータータンクの清掃](/docs/process/notoraburu-1/garanai/gattekara15guraidechiru#wttankuno)を行っても回復しない場合は、水循環ホース、フローセンサー、ウォーターポンプいずれかの交換修理が必要です。
 </TabItem>
 
 <TabItem value="HAJIME CL1" label="HAJIME CL1">
-[USB通信の確認](/docs/soft/harukaganishinai/sekyuritsofutono)、[ウォータータンクの清掃](../../jia-gong-zhong-duan/notoraburu-1/garanai/gattekara15guraidechiru.md#wttankuno)を行っても回復しない場合は、水循環ホース、フローセンサー、ウォーターポンプいずれかの交換修理が必要です。
+[USB通信の確認](/docs/soft/harukaganishinai/sekyuritsofutono)、[ウォータータンクの清掃](/docs/process/notoraburu-1/garanai/gattekara15guraidechiru#wttankuno)を行っても回復しない場合は、水循環ホース、フローセンサー、ウォーターポンプいずれかの交換修理が必要です。
 </TabItem>
 
 <TabItem value="HAJIME CL1 PLUS" label="HAJIME CL1 PLUS">
