@@ -27,19 +27,19 @@ import TabItem from '@theme/TabItem';
 :::success
 <Tabs>
 <TabItem value="HAJIME" label="HAJIME">
-冷却水に問題があるかもしれません。水量の確認、交換、[ウォータータンクのクリーニング](/docs/process/notoraburu-1/garanai/gattekara15guraidechiru)を行ってください。また、フローセンサーの信号を、HARUKA が正しく受け取れていない可能性があります。[USB 接続](/soft/harukanomkugarishitsuitarietarisuruusbnogarishiru)環境を確認してください。
+冷却水に問題があるかもしれません。水量の確認、交換、[ウォータータンクのクリーニング](/docs/process/notoraburu-1/garanai/gattekara15guraidechiru)を行ってください。また、フローセンサーの信号を、HARUKA が正しく受け取れていない可能性があります。[USB 接続](/docs/soft/harukanomkugarishitsuitarietarisuruusbnogarishiru)環境を確認してください。
 
 上記を行っても回復しない場合は、フローセンサー、ウォーターポンプが故障しています。交換修理が必要です。
 </TabItem>
 
 <TabItem value="HAJIME CL1" label="HAJIME CL1">
-冷却水に問題があるかもしれません。水量の確認、交換、[ウォータータンクのクリーニング](../notoraburu-1/garanai/gattekara15guraidechiru.md)を行ってください。また、フローセンサーの信号を、HARUKA が正しく受け取れていない可能性があります。[USB 接続](/soft/harukanomkugarishitsuitarietarisuruusbnogarishiru)環境を確認してください。
+冷却水に問題があるかもしれません。水量の確認、交換、[ウォータータンクのクリーニング](../notoraburu-1/garanai/gattekara15guraidechiru)を行ってください。また、フローセンサーの信号を、HARUKA が正しく受け取れていない可能性があります。[USB 接続](/docs/soft/harukanomkugarishitsuitarietarisuruusbnogarishiru)環境を確認してください。
 
 上記を行っても回復しない場合は、フローセンサー、ウォーターポンプが故障しています。交換修理が必要です。
 </TabItem>
 
 <TabItem value="HAJIME CL1 PLUS" label="HAJIME CL1 PLUS">
-フローセンサーの信号を、HARUKA が正しく受け取れていない可能性があります。[USB 接続](/soft/harukanomkugarishitsuitarietarisuruusbnogarishiru)環境を確認してください。
+フローセンサーの信号を、HARUKA が正しく受け取れていない可能性があります。[USB 接続](/docs/soft/harukanomkugarishitsuitarietarisuruusbnogarishiru)環境を確認してください。
 
 USB 接続環境に問題が無い場合は、フローセンサー、ウォーターポンプが故障しています。交換修理が必要です。
 </TabItem>
@@ -65,7 +65,7 @@ USB 接続環境に問題が無い場合は、フローセンサー、ウォー�
 </TabItem>
 
 <TabItem value="HAJIME CL1 PLUS" label="HAJIME CL1 PLUS">
-ヒートシンク[フィルターのクリーニング](shinai.md)を勧めます。（取扱説明書 P.54）また、MIRUKUのフィルターが詰まっている可能性があります。フィルター交換を行ってください。
+ヒートシンク[フィルターのクリーニング](shinai)を勧めます。（取扱説明書 P.54）また、MIRUKUのフィルターが詰まっている可能性があります。フィルター交換を行ってください。
 </TabItem>
 </Tabs>
 :::
@@ -105,8 +105,8 @@ USB 接続環境に問題が無い場合は、フローセンサー、ウォー�
 
 **パソコンが原因**
 
-* HARUKA の[システム条件](../../kihonsousa/pcshisutemuno.md)に合っているパソコンか確認する。
-* [セキュリティーソフト](../../sofutoniyorutoraburu/harukaganishinai/sekyuritsofutono.md)で通信を監視、遮断されていないか確認する。
+* HARUKA の[システム条件](/docs/basic/pcshisutemuno)に合っているパソコンか確認する。
+* [セキュリティーソフト](/docs/soft/harukaganishinai/sekyuritsofutono)で通信を監視、遮断されていないか確認する。
 :::
 
 :::note 外部リンク
@@ -118,7 +118,7 @@ USB 接続環境に問題が無い場合は、フローセンサー、ウォー�
 :::success
 主電源をオフにして、背面のケーブル類をすべて抜き数分間放置します。 その後ケーブルを繋いで再起動をお願いします。
 
-[アース接地の確認](../../kihonsousa/suno.md)をします。
+[アース接地の確認](/docs/basic/suno)をします。
 :::
 
 :::danger

@@ -12,5 +12,5 @@ sidebar_position: 9
 :::
 
 :::note
-[HARUKAの電源がついたり消えたりする](/soft/harukanomkugarishitsuitarietarisuruusbnogarishiru)
+[HARUKAの電源がついたり消えたりする](/docs/soft/harukanomkugarishitsuitarietarisuruusbnogarishiru)
 :::

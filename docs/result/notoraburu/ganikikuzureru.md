@@ -22,7 +22,7 @@ sidebar_position: 10
 Y軸シャフトにあるリニアブッシュに汚れが溜まると、レーザーヘッドがスムーズに動かないため、ずれが生じる場合があります。
 
 :::success
-[リニアブッシュのメンテナンス](../../jia-gong-zhong-duan/notoraburu/gazureteshimau.md#ttanozure)をしてください。
+[リニアブッシュのメンテナンス](/docs/process/notoraburu/gazureteshimau#ttanozure)をしてください。
 :::
 
 :::note 外部リンク

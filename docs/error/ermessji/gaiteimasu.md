@@ -7,7 +7,7 @@ sidebar_position: 4
 
 ## 考えられる原因
 
-[USBの通信不良](../../sofutoniyorutoraburu/harukaganishinai/sekyuritsofutono.md)が考えられます。
+[USBの通信不良](/docs/soft/harukaganishinai/sekyuritsofutono)が考えられます。
 
 通信障害ではない場合、インターロックスイッチの劣化による誤動作を起こしている可能性があります。この場合、HARUKA の加工開始ウィンドウの「はい」ボタンが押せません。
 

@@ -12,7 +12,7 @@ sidebar_position: 17
 HAJIME は、各電子部品のシールド対策をしっかり行っているのでノイズ耐性が上がっていますが、アース接地の接続を行わずに長時間加工をすると発生する場合があります。
 
 :::success
-[アース接地の確認](../../kihonsousa/suno.md)をしてください。
+[アース接地の確認](/docs/basic/suno)をしてください。
 :::
 
 ## データ送信の停止
@@ -34,8 +34,8 @@ HAJIME は加工が終了するまでパソコンからデータを受信して�
 
 **パソコンが原因**
 
-* HARUKA の[システム条件](../../kihonsousa/pcshisutemuno.md)に合っているパソコンか確認する。
-* [セキュリティーソフト](../../sofutoniyorutoraburu/harukaganishinai/sekyuritsofutono.md)で通信を監視、遮断されていないか確認する。
+* HARUKA の[システム条件](/docs/basic/pcshisutemuno)に合っているパソコンか確認する。
+* [セキュリティーソフト](/docs/soft/harukaganishinai/sekyuritsofutono)で通信を監視、遮断されていないか確認する。
 :::
 
 :::note 外部リンク

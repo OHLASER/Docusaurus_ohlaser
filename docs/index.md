@@ -43,7 +43,7 @@ import DocsCards from '@components/global/DocsCards';
 
 <DocsCard
     header="動作の症状"
-    href="/docs/category/cleaning"
+    href="/docs/category/動作の症状"
     icon="/icons/guide-components-icon.svg"
     hoverIcon="/icons/guide-components-icon-hover.svg"
 >

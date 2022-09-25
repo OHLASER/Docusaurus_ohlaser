@@ -18,7 +18,7 @@ sidebar_position: 3
 上記の症状が生じる場合、下記解決方法を参考し、試してください。
 
 :::note
-[HARUKAの電源がついたり消えたりする](/soft/harukanomkugarishitsuitarietarisuruusbnogarishiru)
+[HARUKAの電源がついたり消えたりする](/docs/soft/harukanomkugarishitsuitarietarisuruusbnogarishiru)
 :::
 
 :::note

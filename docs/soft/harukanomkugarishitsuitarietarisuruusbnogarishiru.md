@@ -26,8 +26,8 @@ sidebar_position: 2
 
 **パソコンが原因**
 
-* HARUKA の[システム条件](../kihonsousa/pcshisutemuno.md)に合っているパソコンか確認する。
-* [セキュリティーソフト](harukaganishinai/sekyuritsofutono.md)で通信を監視、遮断されていないか確認する。
+* HARUKA の[システム条件](/docs/basic/pcshisutemuno)に合っているパソコンか確認する。
+* [セキュリティーソフト](/docs/soft/harukaganishinai/sekyuritsofutono)で通信を監視、遮断されていないか確認する。
 :::
 
 :::note 外部リンク
@@ -43,7 +43,7 @@ sidebar_position: 2
 :::success
 主電源をオフにして、背面のケーブル類をすべて抜き数分間放置します。 その後ケーブルを繋いで再起動をお願いします。
 
-[アース接地の確認](../kihonsousa/suno.md)をします。
+[アース接地の確認](/docs/basic/suno)をします。
 :::
 
 :::danger

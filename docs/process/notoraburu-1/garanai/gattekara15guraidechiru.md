@@ -34,7 +34,7 @@ sidebar_position: 3
 :::
 
 :::caution
-ウォータータンクはアルミ製なので冷却水を長期間交換せずにいると、腐敗した水がアルミを腐食して[水漏れの](../../../dekinai/notoraburu/karagatekitahajimehajimecl1nomi.md)原因にもなるので注意が必要です。
+ウォータータンクはアルミ製なので冷却水を長期間交換せずにいると、腐敗した水がアルミを腐食して[水漏れの](/docs/hardware/notoraburu/karagatekitahajimehajimecl1nomi)原因にもなるので注意が必要です。
 :::
 
 :::danger

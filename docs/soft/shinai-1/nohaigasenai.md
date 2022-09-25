@@ -56,5 +56,5 @@ HARUKA を立ち上げ電源投入後、ロゴをドラックしてレーザー�
 :::caution
 HARUKAステータスが「水流：循環」に変わる、または「水流：停止」・「水流：異常」・「水流：低下」がチカチカ変わる場合は、加工機本体に異常はなく、PCとの通信環境が悪い可能性があります。
 
-[セキュリティソフトの確認](../harukaganishinai/sekyuritsofutono.md)や[アクティブディレクトリ](../harukaganishinai/akutibudirekutori.md)の確認を行ってください。
+[セキュリティソフトの確認](/docs/soft/harukaganishinai/sekyuritsofutono)や[アクティブディレクトリ](/docs/soft/harukaganishinai/akutibudirekutori)の確認を行ってください。
 :::

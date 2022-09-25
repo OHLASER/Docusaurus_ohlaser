@@ -10,7 +10,7 @@ sidebar_position: 13
 何かの不具合で、過去に HARUKA が生成した一時ファイルを読み込んでいる可能性があります。
 
 :::success
-[一時ファイル](../../sofutoniyorutoraburu/harukaganishinai/fairu.md)を削除して HARUKA を再起動してください。
+[一時ファイル](/docs/soft/harukaganishinai/fairu)を削除して HARUKA を再起動してください。
 :::
 
 ## モーション基板の故障

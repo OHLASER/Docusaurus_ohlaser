@@ -9,11 +9,11 @@ sidebar_position: 6
 腐食が進行していく場合は修理が必要となります。
 
 :::note
-[加工厳禁素材](../../advice/neteno.md)
+[加工厳禁素材](/docs/advice/neteno)
 :::
 
 :::note
-[ゴム板を加工した場合](../../defined/kurningunitsuite/gomuwoshita.md)
+[ゴム板を加工した場合](/docs/cleaning/kurningunitsuite/gomuwoshita)
 :::
 
 

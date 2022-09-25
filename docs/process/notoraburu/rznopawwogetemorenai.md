@@ -41,7 +41,7 @@ import TabItem from '@theme/TabItem';
 </TabItem>
 
 <TabItem value="HAJIME CL1 PLUS" label="HAJIME CL1 PLUS">
-排気効率が落ちている可能性があるので、ヒートシンク[フィルターのクリーニング](shinai.md)を勧めてください。（取扱説明書 P.54）また、集じん機のフィルターが詰まっている可能性もあるので、確認してください。
+排気効率が落ちている可能性があるので、ヒートシンク[フィルターのクリーニング](shinai)を勧めてください。（取扱説明書 P.54）また、集じん機のフィルターが詰まっている可能性もあるので、確認してください。
 </TabItem>
 </Tabs>
 :::
@@ -69,7 +69,7 @@ import TabItem from '@theme/TabItem';
 木材やベニヤ板などは木目のスジなどの細胞が詰まっている箇所と、空気が通っている箇所があり素材密度が均等ではありません。綺麗に切りぬけない場合が多いのでご理解ください。
 
 :::note
-[ベニヤ板](/doc/advice/adobaisu/ha/beniya.md)
+[ベニヤ板](/docs/advice/adobaisu/ha/beniya)
 :::
 
 ## レーザー発振器の消耗
