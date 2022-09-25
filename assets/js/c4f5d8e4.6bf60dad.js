@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocuments=self.webpackChunkdocuments||[]).push([[4195],{62841:(e,t,c)=>{c.r(t),c.d(t,{default:()=>o});var n=c(67294),s=c(76775),u=c(44996);const o=function(){return n.createElement(s.l_,{to:(0,u.Z)("docs")})}}}]);
