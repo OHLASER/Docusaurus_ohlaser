@@ -1,5 +1,6 @@
 ---
 description: 作成したデータのサイズよりも小さくなる
+sidebar_position: 6
 ---
 
 # 仕上がりサイズが小さい

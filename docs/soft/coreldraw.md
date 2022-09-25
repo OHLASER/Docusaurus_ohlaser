@@ -1,5 +1,6 @@
 ---
 description: CorelDRAW 転送時のアートボード有無の設定
+sidebar_position: 9
 ---
 
 # CorelDRAW のアートボード設定

@@ -1,5 +1,6 @@
 ---
 description: レーザーが一切出ない
+sidebar_position: 6
 ---
 
 # レーザーが全く出ない

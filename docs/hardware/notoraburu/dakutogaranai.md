@@ -1,5 +1,6 @@
 ---
 description: 100φの白い排気ダクトが取付口に付かない
+sidebar_position: 1
 ---
 
 # 排気ダクトが入らない

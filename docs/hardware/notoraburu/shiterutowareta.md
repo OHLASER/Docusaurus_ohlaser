@@ -1,5 +1,6 @@
 ---
 description: 建屋の電気点検で、業者に HAJIME が漏電してると言われた
+sidebar_position: 5
 ---
 
 # 漏電してると言われた

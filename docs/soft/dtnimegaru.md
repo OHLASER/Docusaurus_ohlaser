@@ -1,5 +1,6 @@
 ---
 description: 以前に作成したHARUKAプロジェクトファイルを開くと斜め線が入る
+sidebar_position: 10
 ---
 
 # ＨＡＲＵＫＡに転送すると斜め線が表示される

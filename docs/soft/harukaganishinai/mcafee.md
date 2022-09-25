@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 # McAfee による誤検知の対策
 
 ## McAfeeの影響でHARUKAが起動できない

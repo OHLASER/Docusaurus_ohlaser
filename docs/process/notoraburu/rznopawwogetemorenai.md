@@ -1,5 +1,6 @@
 ---
 description: レーザーは出るが前より弱くなった
+sidebar_position: 4
 ---
 
 import Tabs from '@theme/Tabs';

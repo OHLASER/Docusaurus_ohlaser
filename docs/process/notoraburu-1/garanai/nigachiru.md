@@ -1,5 +1,6 @@
 ---
 description: 加工機本体の電源が一瞬入るがすぐに落ちる場合
+sidebar_position: 2
 ---
 
 # 電源投入直後に落ちる

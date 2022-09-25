@@ -1,5 +1,6 @@
 ---
 description: 「はい」を押しても HARUKA の加工経過時間だけ動いている
+sidebar_position: 2
 ---
 
 # 「はい」を押しても始まらない

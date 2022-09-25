@@ -1,5 +1,6 @@
 ---
 description: 紙をカットするとき起こりやすい
+sidebar_position: 5
 ---
 
 # カットラインが細かい点線になる

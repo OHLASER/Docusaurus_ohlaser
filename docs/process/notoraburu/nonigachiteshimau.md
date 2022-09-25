@@ -1,5 +1,6 @@
 ---
 description: 加工中に電源が落ちLED電源ボタンが高速点滅
+sidebar_position: 7
 ---
 
 import Tabs from '@theme/Tabs';

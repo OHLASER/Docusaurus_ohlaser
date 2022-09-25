@@ -1,5 +1,6 @@
 ---
 description: X軸方向に振動する。Y軸方向に振動する。
+sidebar_position: 14
 ---
 
 # レーザーヘッドが振動する

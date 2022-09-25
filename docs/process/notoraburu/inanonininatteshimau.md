@@ -1,5 +1,6 @@
 ---
 description: データ作成時のルールを守っていない
+sidebar_position: 1
 ---
 
 # 切断データが彫刻になる

@@ -1,5 +1,6 @@
 ---
 description: HARUKA から HAJIME の操作ができない場合、本体電源「ON」の状態で確認
+sidebar_position: 3
 ---
 
 # ドライバー確認方法

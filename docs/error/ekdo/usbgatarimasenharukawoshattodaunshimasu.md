@@ -1,3 +1,6 @@
+---
+sidebar_position: 2
+---
 # HARUKAを初期化できませんでした。HARUKAをシャットダウンします
 
 ## 考えられる原因

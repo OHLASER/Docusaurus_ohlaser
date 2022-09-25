@@ -1,5 +1,6 @@
 ---
 description: ウォータータンクの腐食、発振器破損の可能性あり
+sidebar_position: 4
 ---
 
 # 冷却水が漏れてきた

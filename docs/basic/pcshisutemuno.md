@@ -1,5 +1,6 @@
 ---
 description: パソコンが、HARUKA のシステム条件に合っているか確認
+sidebar_position: 1
 ---
 
 # PCの動作環境

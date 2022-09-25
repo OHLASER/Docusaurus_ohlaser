@@ -1,5 +1,6 @@
 ---
 description: メニューに「HARUKA に転送」が出てこない
+sidebar_position: 5
 ---
 
 # HARUKAに転送が無い

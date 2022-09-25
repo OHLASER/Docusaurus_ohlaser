@@ -1,5 +1,6 @@
 ---
 description: アクリルをカットしたとき切断面がギザギザする
+sidebar_position: 7
 ---
 
 # 断面がギザギザ

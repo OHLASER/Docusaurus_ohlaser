@@ -1,5 +1,6 @@
 ---
 description: フタを開けていないのに「フタ：開いてます」が表示する
+sidebar_position: 4
 ---
 
 # フタ：開いてます

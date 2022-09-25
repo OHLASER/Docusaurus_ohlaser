@@ -1,5 +1,6 @@
 ---
 description: 加工機内にけむりが充満してしまう
+sidebar_position: 5
 ---
 
 # 排気しない・加工機内に煙が充満する

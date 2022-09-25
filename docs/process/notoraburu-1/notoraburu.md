@@ -1,8 +1,11 @@
+---
+sidebar_position: 1
+---
+
 # ＨＡＲＵＫＡのトラブル
 
 こちらご確認お願いします。
 
-{% content-ref url="../../sofutoniyorutoraburu/" %}
-[sofutoniyorutoraburu](../../sofutoniyorutoraburu/)
-{% endcontent-ref %}
-
+:::note
+[ソフト・ＰＣによるトラブル](/docs/soft/)
+:::

@@ -1,5 +1,6 @@
 ---
 description: 駆動部品に不具合がある可能性が高い
+sidebar_position: 10
 ---
 
 # ずれる・ゆがむ

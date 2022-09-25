@@ -1,5 +1,6 @@
 ---
 description: 彫刻画像が左右方向または上下方向にずれる
+sidebar_position: 2
 ---
 
 # 彫刻加工がずれる

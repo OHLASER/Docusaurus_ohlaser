@@ -1,5 +1,6 @@
 ---
 description: 発振器電源故障の可能性が高い
+sidebar_position: 15
 ---
 
 # レーザーが出たまま停止

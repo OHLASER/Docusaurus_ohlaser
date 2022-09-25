@@ -1,5 +1,6 @@
 ---
 description: 加工データを無視してレーザーヘッドが暴走する
+sidebar_position: 13
 ---
 
 # レーザーヘッドが暴走する

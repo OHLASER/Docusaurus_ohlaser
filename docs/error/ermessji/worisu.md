@@ -1,5 +1,6 @@
 ---
 description: 冷却水の循環経路を修理して水流の勢いが増した
+sidebar_position: 6
 ---
 
 # 水流：循環、異常を繰り返す

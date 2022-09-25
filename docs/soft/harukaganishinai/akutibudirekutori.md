@@ -1,5 +1,6 @@
 ---
 description: Windows の共有システムでアクセス権限を付与するセキュリティー機能
+sidebar_position: 3
 ---
 
 # アクティブディレクトリ

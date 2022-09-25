@@ -1,5 +1,6 @@
 ---
 description: エアーチューブに、たわみ、ねじれがある
+sidebar_position: 2
 ---
 
 # エアーチューブが垂れ下がる

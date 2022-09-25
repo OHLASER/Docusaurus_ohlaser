@@ -1,5 +1,6 @@
 ---
 description: HARUKA の動作に必要な Microsoft のコンポーネントがパソコンにインストールされていない
+sidebar_position: 8
 ---
 
 # api-ms-win-crt-runtime-l1-1-0.dll

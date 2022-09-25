@@ -1,5 +1,6 @@
 ---
 description: 左上の加工開始位置がずれる
+sidebar_position: 11
 ---
 
 # 原点がずれる

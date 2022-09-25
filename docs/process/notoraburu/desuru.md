@@ -1,5 +1,6 @@
 ---
 description: 本体のLED電源ボタンがついたまま加工中に停止
+sidebar_position: 17
 ---
 
 # 加工途中で停止する

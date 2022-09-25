@@ -1,5 +1,6 @@
 ---
 description: HARUKA の動作に必要なファイルが破損している
+sidebar_position: 4
 ---
 
 # Runtime error 217

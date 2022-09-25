@@ -1,5 +1,6 @@
 ---
 description: 落雷が原因で中の基板がショートした
+sidebar_position: 2
 ---
 
 # 電源をつけるとブレーカーが落ちる

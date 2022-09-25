@@ -1,5 +1,6 @@
 ---
 description: HARUKA のプログレスバーが途中で止まる
+sidebar_position: 8
 ---
 
 # データが開けない

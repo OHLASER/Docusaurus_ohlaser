@@ -1,5 +1,6 @@
 ---
 description: Windows のコンポーネントエラー
+sidebar_position: 6
 ---
 
 # 不明なエラー-3
@@ -23,7 +24,3 @@ HARUKA の内部システムで使われる、Windows 実行ファイルが起�
 :::note
 [加工開始の「はい」が押せない](/docs/soft/shinai-1/nohaigasenai)
 :::
-
-{% content-ref url="../../sofutoniyorutoraburu/shinai-1/nohaigasenai.md" %}
-[nohaigasenai.md](../../sofutoniyorutoraburu/shinai-1/nohaigasenai.md)
-{% endcontent-ref %}

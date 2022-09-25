@@ -1,5 +1,6 @@
 ---
 description: 一時ファイルを削除してHARUKAをリセット
+sidebar_position: 2
 ---
 
 # ユーザーフォルダの一時ファイル

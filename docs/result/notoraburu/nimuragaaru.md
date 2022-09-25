@@ -1,5 +1,6 @@
 ---
 description: デコボコしたスジがたくさん残る
+sidebar_position: 2
 ---
 
 # 彫刻面にムラがある

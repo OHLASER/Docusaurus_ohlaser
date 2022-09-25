@@ -1,5 +1,6 @@
 ---
 description: フォーカスがずれているかレンズ破損の可能性あり
+sidebar_position: 8
 ---
 
 # 彫刻がぼける

@@ -1,6 +1,8 @@
 ---
 description: 本体から押した場合か HARUKA から押した場合かを確認
+sidebar_position: 1
 ---
+
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 

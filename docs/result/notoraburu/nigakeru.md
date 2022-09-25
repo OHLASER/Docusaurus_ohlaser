@@ -1,5 +1,6 @@
 ---
 description: 加工物をカットしたとき切断面が欠ける
+sidebar_position: 9
 ---
 
 # 切断時に断面が欠ける

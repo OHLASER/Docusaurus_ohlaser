@@ -1,5 +1,6 @@
 ---
 description: HARUKA が起動しない場合や USB 通信が不安定な場合（接続・未接続を繰り返すなど）に確認
+sidebar_position: 1
 ---
 
 # セキュリティーソフト

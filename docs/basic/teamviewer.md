@@ -1,5 +1,6 @@
 ---
 description: ユーザーのパソコンを遠隔で操作できるソフト
+sidebar_position: 3
 ---
 
 # 遠隔操作の初期設定

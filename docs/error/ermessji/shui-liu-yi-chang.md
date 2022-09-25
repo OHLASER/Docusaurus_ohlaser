@@ -1,5 +1,6 @@
 ---
 description: 発振器が割れてしまった可能性あり
+sidebar_position: 5
 ---
 
 # 水流：異常

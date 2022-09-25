@@ -1,5 +1,6 @@
 ---
 description: パソコンを起動した際に同時スタートするプログラム
+sidebar_position: 13
 ---
 
 # HARUKAの動作が遅い

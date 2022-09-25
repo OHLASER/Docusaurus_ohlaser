@@ -1,5 +1,6 @@
 ---
 description: 本体の電源を切った後にLED電源ランプが薄く点滅する
+sidebar_position: 5
 ---
 
 # 本体電源が薄くチカチカ点滅

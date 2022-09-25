@@ -1,5 +1,6 @@
 ---
 description: 冷却水の温度が42℃以上を表示している
+sidebar_position: 7
 ---
 
 import Tabs from '@theme/Tabs';

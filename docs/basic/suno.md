@@ -1,5 +1,6 @@
 ---
 description: HARUKA V0.90 以降でメイン基板（OH-PCB）が16th以降であれば確認可能
+sidebar_position: 2
 ---
 
 # アース接地状態の確認方法

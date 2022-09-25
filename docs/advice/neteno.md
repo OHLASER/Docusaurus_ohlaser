@@ -1,5 +1,6 @@
 ---
 description: ご注意ください
+sidebar_position: 1
 ---
 
 # 加工厳禁素材

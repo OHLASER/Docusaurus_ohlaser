@@ -1,5 +1,6 @@
 ---
 description: 下記の症状と同じです。
+sidebar_position: 7
 ---
 
 # 転送できない

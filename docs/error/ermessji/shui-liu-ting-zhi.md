@@ -1,5 +1,6 @@
 ---
 description: 冷却水の経路に不具合があるかもしれない
+sidebar_position: 7
 ---
 
 import Tabs from '@theme/Tabs';

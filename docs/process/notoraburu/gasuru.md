@@ -1,5 +1,6 @@
 ---
 description: 原因の特定が難しいときは異音がする時の動画を送付
+sidebar_position: 8
 ---
 
 # 異音がする

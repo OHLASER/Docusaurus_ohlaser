@@ -1,5 +1,6 @@
 ---
 description: データの読込みはできているのに彫刻しない
+sidebar_position: 10
 ---
 
 # 彫刻を飛ばして切断する

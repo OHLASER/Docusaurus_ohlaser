@@ -1,5 +1,6 @@
 ---
 description: ウォータータンクのフタのネジ山が潰れてしまった
+sidebar_position: 3
 ---
 
 # フタのネジ山が潰れた

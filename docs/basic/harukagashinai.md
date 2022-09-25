@@ -1,5 +1,6 @@
 ---
 description: 情報漏えい対策ソフトで USBデバイスが制御され HAJIME とドングルが認識されない
+sidebar_position: 5
 ---
 
 # USBポート制限ソフト
