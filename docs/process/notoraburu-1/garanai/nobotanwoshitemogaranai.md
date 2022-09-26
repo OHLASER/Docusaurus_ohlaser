@@ -24,9 +24,9 @@ import TabItem from '@theme/TabItem';
 
 ![※ HAJIME CL1 PLUS は予備のヒューズが一つ入っています。](/assets/20191016_02.png)
 
+:::tip
 <Tabs>
 <TabItem value="HAJIME CL1 PLUS / HAJIME CL1" label="HAJIME CL1 PLUS / HAJIME CL1">
-### **HAJIME CL1 PLUS / HAJIME CL1**
 
 主電源スイッチをオフにします。本体電源コード（3P）を抜くと、ヒューズホルダーが出せるようになります。上の溝につめを引っ掛けて手前に引き出します。（固い場合はマイナスドライバーなどを使用してください）
 
@@ -34,11 +34,11 @@ import TabItem from '@theme/TabItem';
 </TabItem>
 
 <TabItem value="HAJIME" label="HAJIME">
-### **HAJIME**
 
 本体電源コードをコンセントから抜いてください。丸いヒューズホルダーのキャップを左に回すと、そのまま引き出せます。
 </TabItem>
 </Tabs>
+:::
 
 #### **交換ヒューズの規格**
 

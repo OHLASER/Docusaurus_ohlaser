@@ -41,7 +41,9 @@ import TabItem from '@theme/TabItem';
 </TabItem>
 
 <TabItem value="HAJIME CL1 PLUS" label="HAJIME CL1 PLUS">
-排気効率が落ちている可能性があるので、ヒートシンク[フィルターのクリーニング](shinai)を勧めてください。（取扱説明書 P.54）また、集じん機のフィルターが詰まっている可能性もあるので、確認してください。
+排気効率が落ちている可能性があるので、ヒートシンク
+<a href="/docs/process/notoraburu/shinai">フィルターのクリーニング</a>
+を勧めてください。（取扱説明書 P.54）また、集じん機のフィルターが詰まっている可能性もあるので、確認してください。
 </TabItem>
 </Tabs>
 :::

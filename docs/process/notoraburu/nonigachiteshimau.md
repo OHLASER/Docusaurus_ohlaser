@@ -27,19 +27,28 @@ import TabItem from '@theme/TabItem';
 :::success
 <Tabs>
 <TabItem value="HAJIME" label="HAJIME">
-冷却水に問題があるかもしれません。水量の確認、交換、[ウォータータンクのクリーニング](/docs/process/notoraburu-1/garanai/gattekara15guraidechiru)を行ってください。また、フローセンサーの信号を、HARUKA が正しく受け取れていない可能性があります。[USB 接続](/docs/soft/harukanomkugarishitsuitarietarisuruusbnogarishiru)環境を確認してください。
+冷却水に問題があるかもしれません。水量の確認、交換、
+<a href="/docs/process/notoraburu-1/garanai/gattekara15guraidechiru">ウォータータンクのクリーニング</a>
+を行ってください。また、フローセンサーの信号を、HARUKA が正しく受け取れていない可能性があります。
+<a href="/docs/soft/harukanomkugarishitsuitarietarisuruusbnogarishiru">USB 接続</a>
+環境を確認してください。
 
 上記を行っても回復しない場合は、フローセンサー、ウォーターポンプが故障しています。交換修理が必要です。
 </TabItem>
 
 <TabItem value="HAJIME CL1" label="HAJIME CL1">
-冷却水に問題があるかもしれません。水量の確認、交換、[ウォータータンクのクリーニング](../notoraburu-1/garanai/gattekara15guraidechiru)を行ってください。また、フローセンサーの信号を、HARUKA が正しく受け取れていない可能性があります。[USB 接続](/docs/soft/harukanomkugarishitsuitarietarisuruusbnogarishiru)環境を確認してください。
+冷却水に問題があるかもしれません。水量の確認、交換、
+<a href="/docs/process/notoraburu-1/garanai/gattekara15guraidechiru">ウォータータンクのクリーニング</a>
+を行ってください。また、フローセンサーの信号を、HARUKA が正しく受け取れていない可能性があります。
+<a href="/docs/soft/harukanomkugarishitsuitarietarisuruusbnogarishiru">USB 接続</a>
+環境を確認してください。
 
 上記を行っても回復しない場合は、フローセンサー、ウォーターポンプが故障しています。交換修理が必要です。
 </TabItem>
 
 <TabItem value="HAJIME CL1 PLUS" label="HAJIME CL1 PLUS">
-フローセンサーの信号を、HARUKA が正しく受け取れていない可能性があります。[USB 接続](/docs/soft/harukanomkugarishitsuitarietarisuruusbnogarishiru)環境を確認してください。
+フローセンサーの信号を、HARUKA が正しく受け取れていない可能性があります。
+<a href="/docs/soft/harukanomkugarishitsuitarietarisuruusbnogarishiru">USB 接続</a>環境を確認してください。
 
 USB 接続環境に問題が無い場合は、フローセンサー、ウォーターポンプが故障しています。交換修理が必要です。
 </TabItem>
@@ -65,7 +74,9 @@ USB 接続環境に問題が無い場合は、フローセンサー、ウォー�
 </TabItem>
 
 <TabItem value="HAJIME CL1 PLUS" label="HAJIME CL1 PLUS">
-ヒートシンク[フィルターのクリーニング](shinai)を勧めます。（取扱説明書 P.54）また、MIRUKUのフィルターが詰まっている可能性があります。フィルター交換を行ってください。
+ヒートシンク
+<a href="/docs/process/notoraburu/shinai">フィルターのクリーニング</a>
+を勧めます。（取扱説明書 P.54）また、MIRUKUのフィルターが詰まっている可能性があります。フィルター交換を行ってください。
 </TabItem>
 </Tabs>
 :::

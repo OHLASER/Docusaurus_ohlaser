@@ -35,14 +35,17 @@ import TabItem from '@theme/TabItem';
 </TabItem>
 
 <TabItem value="HAJIME CL1 PLUS" label="HAJIME CL1 PLUS">
-ヒートシンク[フィルターのクリーニング](../notoraburu/shinai)を勧めます。（取扱説明書 P.54）また、集じん機のフィルターが詰まっている可能性があります。フィルター交換を勧めてください。
+ヒートシンク
+<a href="/docs/process/notoraburu/shinai">フィルターのクリーニング</a>
+を勧めます。（取扱説明書 P.54）また、集じん機のフィルターが詰まっている可能性があります。フィルター交換を勧めてください。
 
 高パワーでの長時間加工の場合は水温が上がりやすくなります。
 
-{% file src="/assets/水温検証比較表20190910.pdf" %?
+<a href="/assets/水温検証比較表20190910.pdf" target="_blank">水温検証比較表20190910.pdf(PDF)</a>
+
 </TabItem>
 </Tabs>
-%}
+:::
 
 :::note 外部リンク
 [MIRUKU メンテナンスマニュアル(PDF)](https://www.oh-laser.com/files/miruku_maintenance.pdf) 
