@@ -30,11 +30,11 @@ sidebar_position: 3
 :::
 
 :::note 外部リンク
-[Amazon | スズキ機工 超極圧潤滑剤 LSベルハンマーゴールド 原液80ml LSBH-G14 | 工業用潤滑剤 | 産業・研究開発用品 通販](https://www.amazon.co.jp/dp/B079FM13BP/?coliid=I1AD0JOYUOH8CL&colid=2P27YP4M43BSD&psc=0&ref_=lv_ov_lig_dp_it) 
+[Amazon | スズキ機工 超極圧潤滑剤 LSベルハンマーゴールド 原液80ml LSBH-G14 | 工業用潤滑剤 | 産業・研究開発用品 通販](https://www.amazon.co.jp/dp/B079FM13BP/?coliid=I1AD0JOYUOH8CL&colid=2P27YP4M43BSD&psc=0&ref_=lv_ov_lig_dp_it)
 :::
 
 :::caution
-ウォータータンクはアルミ製なので冷却水を長期間交換せずにいると、腐敗した水がアルミを腐食して[水漏れの](/docs/hardware/notoraburu/karagatekitahajimehajimecl1nomi)原因にもなるので注意が必要です。
+ウォータータンクはアルミ製なので冷却水を長期間交換せずにいると、腐敗した水がアルミを腐食して[水漏れの](/docs/hardware/karagatekitahajimehajimecl1nomi)原因にもなるので注意が必要です。
 :::
 
 :::danger

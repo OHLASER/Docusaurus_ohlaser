@@ -50,5 +50,40 @@ import DocsCards from '@components/global/DocsCards';
 <p>動作の症状について説明します</p>
 </DocsCard>
 
-</DocsCards>
+<DocsCard
+    header="ソフトの症状"
+    href="/docs/category/ソフトの症状"
+    icon="/icons/guide-components-icon.svg"
+    hoverIcon="/icons/guide-components-icon-hover.svg"
+>
+<p>ソフトウェアの症状について説明します</p>
+</DocsCard>
 
+<DocsCard
+    header="加工結果の症状"
+    href="/docs/category/加工結果の症状"
+    icon="/icons/guide-components-icon.svg"
+    hoverIcon="/icons/guide-components-icon-hover.svg"
+>
+<p>加工結果の症状および完成品のトラブルについて説明します</p>
+</DocsCard>
+
+<DocsCard
+    header="エラーメッセージ"
+    href="/docs/category/エラーメッセージ"
+    icon="/icons/guide-components-icon.svg"
+    hoverIcon="/icons/guide-components-icon-hover.svg"
+>
+<p>エラーメッセージ一覧</p>
+</DocsCard>
+
+<DocsCard
+    header="加工のアドバイス"
+    href="/docs/category/加工のアドバイス"
+    icon="/icons/guide-components-icon.svg"
+    hoverIcon="/icons/guide-components-icon-hover.svg"
+>
+<p>加工結果の症状および完成品のトラブルについて説明します</p>
+</DocsCard>
+
+</DocsCards>
