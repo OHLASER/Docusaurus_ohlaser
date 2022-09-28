@@ -4,3 +4,7 @@
  * work well for content-centric websites.
  */
 
+ table {
+     width: 100%;
+     display: table;
+ }
