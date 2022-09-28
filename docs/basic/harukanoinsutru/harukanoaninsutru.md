@@ -1,5 +1,6 @@
 ---
 description: HARUKAのアンインストール方法
+sidebar_position: 1
 ---
 
 # HARUKAのアンインストール

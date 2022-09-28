@@ -1,5 +1,6 @@
 ---
 description: 保存したパラメーターを削除しHARUKAに初期設定されているパラメーターに戻す
+sidebar_position: 6
 ---
 
 # HARUKAパラメーターの初期化方法

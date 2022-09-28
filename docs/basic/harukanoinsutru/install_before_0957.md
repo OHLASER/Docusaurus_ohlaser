@@ -1,5 +1,6 @@
 ---
 description: HARUKAのインストール方法（0.95.7まで）
+sidebar_position: 2
 ---
 
 # HARUKAのインストール（0.95.7まで）

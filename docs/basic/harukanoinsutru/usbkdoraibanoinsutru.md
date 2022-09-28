@@ -1,6 +1,6 @@
 ---
 description: USB暗号化キーのドライバーインストール方法
-sidebar_position: 7
+sidebar_position: 4
 ---
 
 # USBキードライバの手動インストール

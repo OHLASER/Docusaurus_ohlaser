@@ -1,5 +1,6 @@
 ---
 description: 2016以前のHAJIME加工機のみ
+sidebar_position: 5
 ---
 
 # 加工機ドライバー手動インストール

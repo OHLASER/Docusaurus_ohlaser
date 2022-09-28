@@ -1,5 +1,6 @@
 ---
 description: サービス管理で再起動する方法
+sidebar_position: 3
 ---
 
 # モーションサービスの再起動
