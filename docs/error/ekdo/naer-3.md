@@ -12,7 +12,7 @@ sidebar_position: 6
 :::success
 パソコンを再起動します。Windows [スタートアップ](/docs/soft/suttoappupuroguramu)プログラムが立ち上がり、落ち着くまで待ってから HARUKA を起動してください。
 
-パソコンのスペックが HARUKA の[システム条件](/docs/basic/pcshisutemuno)に合っているか確認してください。
+パソコンのスペックが HARUKA の[システム条件](/docs/basic/pc_spec)に合っているか確認してください。
 :::
 
 ## 解決方法

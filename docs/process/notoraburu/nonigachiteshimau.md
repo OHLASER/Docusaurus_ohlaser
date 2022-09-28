@@ -116,7 +116,7 @@ USB 接続環境に問題が無い場合は、フローセンサー、ウォー�
 
 **パソコンが原因**
 
-* HARUKA の[システム条件](/docs/basic/pcshisutemuno)に合っているパソコンか確認する。
+* HARUKA の[システム条件](/docs/basic/pc_spec)に合っているパソコンか確認する。
 * [セキュリティーソフト](/docs/soft/harukaganishinai/sekyuritsofutono)で通信を監視、遮断されていないか確認する。
 :::
 

@@ -10,7 +10,7 @@ sidebar_position: 10
 HARUKA のシステム条件に合っているか確認します。
 
 :::note
-[PCの動作環境](/docs/basic/pcshisutemuno)
+[PCの動作環境](/docs/basic/pc_spec)
 :::
 
 ## パソコンのメモリ不足

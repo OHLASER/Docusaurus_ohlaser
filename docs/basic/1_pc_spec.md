@@ -1,6 +1,7 @@
 ---
 description: パソコンが、HARUKA のシステム条件に合っているか確認
 sidebar_position: 1
+slug: /basic/pc_spec
 ---
 
 # PCの動作環境
@@ -44,7 +45,7 @@ HARUKA が正常に動作するためのシステム条件は下記の通りで�
 ## おすすめPC
 
 :::note 外部リンク
-[iiyama STYLE-15FH050-i5-UCSX [Windows 10 Home]  | パソコン工房【公式通販】](https://www.pc-koubou.jp/products/detail.php?product_id=719680&ref=core_i5_style_note) 
+[iiyama STYLE-15FH050-i5-UCSX [Windows 10 Home]  | パソコン工房【公式通販】](https://www.pc-koubou.jp/products/detail.php?product_id=719680&ref=core_i5_style_note)
 :::
 
 ## 常駐ソフトは最小限に
@@ -64,7 +65,7 @@ HARUKA が正常に動作するためのシステム条件は下記の通りで�
 :::
 
 :::note 外部リンク
-[iiyama STYLE-15FH050-i5-UCSX [Windows 10 Home]  | パソコン工房【公式通販】](https://www.pc-koubou.jp/products/detail.php?product_id=719680&ref=core_i5_style_note) 
+[iiyama STYLE-15FH050-i5-UCSX [Windows 10 Home]  | パソコン工房【公式通販】](https://www.pc-koubou.jp/products/detail.php?product_id=719680&ref=core_i5_style_note)
 :::
 
 ## USBポート電力供給不足省電力仕様のパソコン
@@ -72,7 +73,7 @@ HARUKA が正常に動作するためのシステム条件は下記の通りで�
 モバイルノートなどの省電力仕様のパソコンだと、USB ポートのパワー不足で通信が不安定になることがあります。
 
 :::note 外部リンク
-[USB バスパワーの電力不足だと正常動作しない - 周辺機器](https://pcinformation.info/peripheral/usb-bus-power.html) 
+[USB バスパワーの電力不足だと正常動作しない - 周辺機器](https://pcinformation.info/peripheral/usb-bus-power.html)
 :::
 
 :::success
@@ -82,5 +83,5 @@ HARUKA が正常に動作するためのシステム条件は下記の通りで�
 ### 推奨 USBポート拡張 USB-HUB（セルフパワー）
 
 :::note 外部リンク
-[Amazon.co.jp: エレコム USB3.0 ハブ 4ポート 1ｍ ACアダプタ付 セルフ/バス両対応 MacBook / Surface Pro / Chromebook他 ノートPC Nintendo Switch対応 ブラック U3H-A408SBK : パソコン・周辺機器](https://www.amazon.co.jp/dp/B00KKJJCXC/?coliid=I9R7OGQUCPEL4&colid=2P27YP4M43BSD&psc=1) 
+[Amazon.co.jp: エレコム USB3.0 ハブ 4ポート 1ｍ ACアダプタ付 セルフ/バス両対応 MacBook / Surface Pro / Chromebook他 ノートPC Nintendo Switch対応 ブラック U3H-A408SBK : パソコン・周辺機器](https://www.amazon.co.jp/dp/B00KKJJCXC/?coliid=I9R7OGQUCPEL4&colid=2P27YP4M43BSD&psc=1)
 :::
