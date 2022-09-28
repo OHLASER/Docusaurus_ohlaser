@@ -1,6 +1,6 @@
 ---
-description: USB暗号化キーのドライバーインストール方法
-sidebar_position: 4
+description: USBキードライバーの手動インストール方法
+sidebar_position: 7
 ---
 
 # USBキードライバの手動インストール
@@ -10,10 +10,10 @@ Windows アップデートやセキュリティーソフトとの競合などに
 :::success
 USBキードライバの場所&#x20;
 
-HARUKA バージョン 0.87 以降:  
+HARUKA バージョン 0.87 以降:
 C:\Program Files(x86)\HARUKA\DongleDriverInstaller.exe&#x20;
 
-HARUKA バージョン 0.86 以前:  
+HARUKA バージョン 0.86 以前:
 C:\moshidrawJP\Oh-Plugin\DongleDriverInstaller.exe
 :::
 
