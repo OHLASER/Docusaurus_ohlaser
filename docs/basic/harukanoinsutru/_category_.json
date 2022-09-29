@@ -1,3 +1,9 @@
 {
+  "label": "HARUKAの復旧方法",
   "position": 6,
+  "link": {
+    "type": "generated-index",
+    "slug": "basic/recover_haruka",
+      "description": "HARUKAの復旧方法について説明します。",
+  }
 }
