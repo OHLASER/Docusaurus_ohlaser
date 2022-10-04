@@ -22,19 +22,19 @@ sidebar_position: 4
 
 　
 
-![](</assets/0(5).png>)
+![](</assets/0.png>)
 
 **2.右上の「歯車マーク」をクリック**
 
-![](</assets/1(4).png>)
+![](</assets/1.png>)
 
 **3. 「隔離項目」をクリック**
 
-![](</assets/2(4).png>)
+![](</assets/2.png>)
 
 **4. 「矢印」をクリック**
 
-![](</assets/3(5).png>)
+![](</assets/3.png>)
 
 **5. 「MOSHISERVER.EXE」を選択後、復元をクリック**
 
@@ -42,70 +42,70 @@ sidebar_position: 4
 
 　※ファイル名が「MOSHISERVER」「Moshiserver」「Moshiserver.exe」の場合もあります。
 
-![](</assets/4(3).png>)
+![](</assets/4.png>)
 
 **6. 隔離項目右上の「×」をクリック**
 
-![](</assets/5(3).png>)
+![](</assets/5.png>)
 
 **7. 「パソコンのセキュリティ」をクリック**
 
 　※単に「セキュリティ」のみの場合もあります。
 
-![](</assets/6(3).png>)
+![](</assets/6.png>)
 
 **8. 「リアルタイムスキャン」をクリック**
 
-![](</assets/7(2).png>)
+![](</assets/7.png>)
 
 **9. 「矢印」をクリック**
 
-![](</assets/8(2).png>)
+![](</assets/8.png>)
 
 **10. 「ファイルを追加」をクリック**
 
-![](</assets/9(2).png>)
+![](</assets/9.png>)
 
 **11. 「PC」を開く**
 
-![](</assets/10(2).png>)
+![](</assets/10.png>)
 
 **12. 「ローカルディスク（C:）」を開く**
 
-![](</assets/11(2).png>)
+![](</assets/11.png>)
 
 **13. 「Program Files(×86)」を開く**
 
-![](</assets/12(2).png>)
+![](</assets/12.png>)
 
 **14. 「HARUKA」を開く**
 
-![](</assets/13(2).png>)
+![](</assets/13.png>)
 
 **15. 「Moshi」を開く**
 
-![](</assets/14(2).png>)
+![](</assets/14.png>)
 
 **16. 「MoshiDrawService」を開く**
 
-![](</assets/15(2).png>)
+![](</assets/15.png>)
 
 **17. 「MOSHISERVER.EXE」を選択し、「開く」をクリック**
 
 　※ファイル名が「MOSHISERVER」「Moshiserver」「Moshiserver.exe」の場合もあります。
 
-![](</assets/16(2).png>)
+![](</assets/16.png>)
 
 **18. 「MOSHISERVER.EXE」が追加されていることを確認**
 
-![](</assets/17(2).png>)
+![](</assets/17.png>)
 
 **19. 「HARUKA」を開く**
 
-![](</assets/18(2).png>)
+![](</assets/18.png>)
 
 **20. HARUKAを起動後、ユーザーアカウント制御が表示されるので、「はい」を選択**
 
-![](</assets/19(2).png>)
+![](</assets/19.png>)
 
 **以上で、HARUKAを正常にお使いいただけるようになりました。**
