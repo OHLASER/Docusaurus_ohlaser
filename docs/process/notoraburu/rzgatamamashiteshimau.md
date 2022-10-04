@@ -10,7 +10,7 @@ sidebar_position: 15
 :::success
 主電源をオフにして、背面のケーブル類をすべて抜き数分間放置します。 その後ケーブルを繋いで再起動をお願いします。
 
-[アース接地の確認](/docs/basic/suno)をします。
+[アース接地の確認](/docs/basic/earth)をします。
 :::
 
 :::danger
