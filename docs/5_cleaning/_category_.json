@@ -3,6 +3,7 @@
   "position": 101,
   "link": {
     "type": "generated-index",
-      "description": "清掃方法について説明します。",
+    "slug": "/cleaning",
+    "description": "清掃方法について説明します。",
   }
 }

@@ -3,6 +3,7 @@
   "position": 107,
   "link": {
     "type": "generated-index",
-
+    "slug": "/error",
+    "description": "エラーメッセージについて説明します。",
   }
 }

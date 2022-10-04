@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
-title: インデックス 索引
-sidebar_label: インデックス 索引
+title: 索引
+sidebar_label: 索引
 slug: /
 hide_table_of_contents: true
 ---
@@ -16,7 +16,7 @@ import DocsCards from '@components/global/DocsCards';
 <DocsCards>
 <DocsCard
     header="基本操作"
-    href="/docs/category/basic"
+    href="/docs/basic"
     icon="/icons/guide-components-icon.svg"
     hoverIcon="/icons/guide-components-icon-hover.svg"
 >
@@ -25,7 +25,7 @@ import DocsCards from '@components/global/DocsCards';
 
 <DocsCard
     header="清掃方法"
-    href="/docs/category/清掃方法"
+    href="/docs/cleaning"
     icon="/icons/guide-components-icon.svg"
     hoverIcon="/icons/guide-components-icon-hover.svg"
 >
@@ -34,7 +34,7 @@ import DocsCards from '@components/global/DocsCards';
 
 <DocsCard
     header="加工機本体の症状"
-    href="/docs/category/加工機本体の症状"
+    href="/docs/hardware"
     icon="/icons/guide-components-icon.svg"
     hoverIcon="/icons/guide-components-icon-hover.svg"
 >
@@ -43,7 +43,7 @@ import DocsCards from '@components/global/DocsCards';
 
 <DocsCard
     header="動作の症状"
-    href="/docs/category/動作の症状"
+    href="/docs/process"
     icon="/icons/guide-components-icon.svg"
     hoverIcon="/icons/guide-components-icon-hover.svg"
 >
@@ -52,7 +52,7 @@ import DocsCards from '@components/global/DocsCards';
 
 <DocsCard
     header="ソフトの症状"
-    href="/docs/category/ソフトの症状"
+    href="/docs/soft"
     icon="/icons/guide-components-icon.svg"
     hoverIcon="/icons/guide-components-icon-hover.svg"
 >
@@ -61,7 +61,7 @@ import DocsCards from '@components/global/DocsCards';
 
 <DocsCard
     header="加工結果の症状"
-    href="/docs/category/加工結果の症状"
+    href="/docs/result"
     icon="/icons/guide-components-icon.svg"
     hoverIcon="/icons/guide-components-icon-hover.svg"
 >
@@ -70,7 +70,7 @@ import DocsCards from '@components/global/DocsCards';
 
 <DocsCard
     header="エラーメッセージ"
-    href="/docs/category/エラーメッセージ"
+    href="/docs/error"
     icon="/icons/guide-components-icon.svg"
     hoverIcon="/icons/guide-components-icon-hover.svg"
 >
@@ -79,7 +79,7 @@ import DocsCards from '@components/global/DocsCards';
 
 <DocsCard
     header="加工のアドバイス"
-    href="/docs/category/加工のアドバイス"
+    href="/docs/advice"
     icon="/icons/guide-components-icon.svg"
     hoverIcon="/icons/guide-components-icon-hover.svg"
 >

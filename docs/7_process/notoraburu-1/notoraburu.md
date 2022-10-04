@@ -7,5 +7,5 @@ sidebar_position: 1
 こちらご確認お願いします。
 
 :::note
-[ソフト・ＰＣによるトラブル](/docs/category/ソフトの症状/)
+[ソフト・ＰＣによるトラブル](/docs/soft)
 :::
