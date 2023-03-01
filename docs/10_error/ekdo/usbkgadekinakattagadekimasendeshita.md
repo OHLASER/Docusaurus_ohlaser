@@ -21,5 +21,5 @@ sidebar_position: 1
 下記ページの手順をご参照ください。
 
 :::note
-[USBキードライバの手動インストール](/docs/basic/harukanoinsutru/usbkdoraibanoinsutru)
+[USBキードライバの手動インストール](/docs/basic/recover_haruka/install_driver)
 :::

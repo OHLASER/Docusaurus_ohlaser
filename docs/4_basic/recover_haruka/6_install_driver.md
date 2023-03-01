@@ -1,17 +1,18 @@
 ---
 description: USBキードライバーの手動インストール方法
-sidebar_position: 7
+sidebar_position: 6
+slug: /basic/recover_haruka/install_driver
 ---
 
-# USBキードライバの手動インストール
+# ~~USBキードライバの手動インストール~~
 
-Windows アップデートやセキュリティーソフトとの競合などにより、デバイスエラー（ドライバ が自動インストールされず不明なデバイスとなり警告マークが表示）となる場合があります。 この場合は手動でドライバをインストールする必要があります。Wind ows を最新の状態に更新後 セキュリティーソフトを停止して下記方法でインストールしてください。
+Windows アップデートやセキュリティーソフトとの競合などにより、デバイスエラー（ドライバが自動インストールされず不明なデバイスとなり警告マークが表示）となる場合があります。 この場合は手動でドライバをインストールする必要があります。Windows を最新の状態に更新後セキュリティーソフトを停止して下記方法でインストールしてください。
 
 :::success
-USBキードライバの場所&#x20;
+USBキードライバの場所
 
 HARUKA バージョン 0.87 以降:
-C:\Program Files(x86)\HARUKA\DongleDriverInstaller.exe&#x20;
+C:\Program Files(x86)\HARUKA\DongleDriverInstaller.exe
 
 HARUKA バージョン 0.86 以前:
 C:\moshidrawJP\Oh-Plugin\DongleDriverInstaller.exe

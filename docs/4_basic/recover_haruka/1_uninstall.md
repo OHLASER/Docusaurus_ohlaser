@@ -1,6 +1,7 @@
 ---
 description: HARUKAのアンインストール方法
 sidebar_position: 1
+slug: /basic/recover_haruka/uninstall
 ---
 
 # HARUKAのアンインストール

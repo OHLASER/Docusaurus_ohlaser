@@ -1,9 +1,10 @@
 ---
-description: 2016以前のHAJIME加工機のみ
+description: 2016以前のHAJIMEのみ
 sidebar_position: 5
+slug: /basic/recover_haruka/install_driver_ms10105
 ---
 
-# 加工機ドライバー手動インストール
+# ~~ドライバー手動インストール~~
 
 2016年式 HAJIME レーザー加工機のみ（MS10105基板のみ）必要
 
@@ -13,7 +14,7 @@ HARUKA がインストールされている Windows が 32bit 版か 64bit 版�
 レーザー加工機ドライバの場所
 
 HARUKA バージョン 0.87 以降\
-C:\Program Files(x86)\HARUKA\moshidrv32.exe もしくは moshidrv64.exe&#x20;
+C:\Program Files(x86)\HARUKA\moshidrv32.exe もしくは moshidrv64.exe
 
 HARUKA バージョン 0.86 以前\
 C:\moshidrawJP\moshidrv32.exe もしくは moshidrv64.exe

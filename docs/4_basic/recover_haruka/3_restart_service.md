@@ -1,6 +1,7 @@
 ---
 description: サービス管理で再起動する方法
 sidebar_position: 3
+slug: /basic/recover_haruka/restart_service
 ---
 
 # モーションサービスの再起動
@@ -13,7 +14,7 @@ HARUKAを閉めて頂いている状態で Windowsプログラムグループ内
 
 ![メニュー一覧のあるHARUKAフォルダーをクリック](/assets/1111.png)
 
-HARUKAフォルダの「サービス管理」を起動します。&#x20;
+HARUKAフォルダの「サービス管理」を起動します。
 
 ![](/assets/11111\(3\).png)
 

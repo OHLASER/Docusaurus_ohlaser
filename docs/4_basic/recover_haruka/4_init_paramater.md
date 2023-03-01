@@ -1,9 +1,10 @@
 ---
 description: 保存したパラメーターを削除しHARUKAに初期設定されているパラメーターに戻す
-sidebar_position: 6
+sidebar_position: 4
+slug: /basic/recover_haruka/init_paramater
 ---
 
-# HARUKAパラメーターの初期化方法
+# HARUKAパラメーターの初期化
 
 ドキュメントファルダのパラメーター設定ファイルを削除します。
 

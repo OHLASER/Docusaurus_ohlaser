@@ -10,5 +10,5 @@ sidebar_position: 2
 下記ページをご参考ください。
 
 :::note
-[モーションサービスの再起動](/docs/basic/harukanoinsutru/mshonsbisuno)
+[モーションサービスの再起動](/docs/basic/recover_haruka/restart_service)
 :::
