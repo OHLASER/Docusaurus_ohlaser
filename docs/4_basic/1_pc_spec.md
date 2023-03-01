@@ -11,7 +11,7 @@ slug: /basic/pc_spec
 HARUKA が正常に動作するためのシステム条件は下記の通りです。
 
 :::info
-**HARUKA システム条件**
+**HARUKAのシステム条件**
 
 * Windows 10以降（8.1可）
 * プロセッサ：Intel Core i3 2GHz 以上（Core i5 2.5GHz 以上推奨）

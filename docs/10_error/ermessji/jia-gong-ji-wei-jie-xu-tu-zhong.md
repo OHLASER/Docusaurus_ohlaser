@@ -16,7 +16,7 @@ sidebar_position: 2
 またノートＰＣを使用している場合や、ＰＣメーカーによっては電力供給が少ない機種もございます。電力供給型のＨＵＢを経由する事で通信が安定する事がありますのでお試しください。
 
 :::note
-[USB-HUBの選定](/docs/basic/usb-hubno)
+[USB-HUBの選定](/docs/basic/usbhub)
 :::
 
 ### USBケーブルの故障

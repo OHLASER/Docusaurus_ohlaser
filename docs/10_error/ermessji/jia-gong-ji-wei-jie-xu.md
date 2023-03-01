@@ -22,9 +22,9 @@ sidebar_position: 3
 :::
 
 :::note
-[USB-HUBの選定](/docs/basic/usb-hubno)
+[USB-HUBの選定](/docs/basic/usbhub)
 :::
 
 :::note
-[USBポート制限ソフト](/docs/basic/harukagashinai)
+[USBポート制限ソフト](/docs/basic/usbport)
 :::
