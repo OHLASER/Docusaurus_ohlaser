@@ -83,7 +83,7 @@ import DocsCards from '@components/global/DocsCards';
     icon="/icons/guide-components-icon.svg"
     hoverIcon="/icons/guide-components-icon-hover.svg"
 >
-<p>加工結果の症状および完成品のトラブルについて説明します</p>
+<p>加工結果の症状および完成品のトラブルについて説明します。</p>
 </DocsCard>
 
 </DocsCards>
